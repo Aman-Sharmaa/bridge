@@ -1,0 +1,2866 @@
+25.6
+- Added Cleaning Services demo
+- Updated Bridge Core to 2.7.1
+- Updated Revolution Slider to 6.4.6
+
+25.5
+- Added Smartwatch Presentation demo
+- Updated Bridge Core to 2.7.0
+- Updated Qode Real Estate plugin to 1.0.1
+- Updated Revolution Slider to 6.4.5
+- Fixed Availability table entry not showing properly on Property Single
+- Fixed 'Size Label' and 'Size Label Position' option for single property page not overriding same global options
+
+25.4
+- Added Bike Brand demo
+- Updated Bridge Core to 2.6.9
+- Updated Revolution Slider to 6.4.3
+- Updated LayerSlider to 6.11.6
+- Updated Google fonts
+- Fixed One Category and One Tag options for 'Portfolio Carousel' shortcode
+- Fixed One Category and One Tag options for 'Inverted Portfolio Slider' shortcode
+- Fixed One Category and One Tag options for 'Vertical Portfolio Slider' shortcode
+
+25.3
+- Added Product Presentation demo
+- Updated Bridge Core to 2.6.8
+- Fixed 'Left Menu Area Background Color' per page option not working properly
+
+25.2
+- Added Food Blog demo
+- Updated Bridge Core to 2.6.7
+- Updated Revolution Slider to 6.4.2
+
+25.1
+- Added Law Practice demo
+- Added 'wp_nav_menu_item_custom_fields' action within theme custom navigation walker
+- Updated Bridge Core to 2.6.6
+- Updated WPBakery page builder to 6.6.0
+
+25.0
+- Added Wedding Coordinator demo
+- Updated Bridge Core to 2.6.5
+- Fixed potential warning when including google fonts
+
+24.9
+- Added Dental Office demo
+- Updated Bridge Core to 2.6.4
+- Updated Revolution Slider to 6.3.9
+- Updated LayerSlider to 6.11.5
+- Fixed Vimeo video not showing properly for Portfolio Single - Gallery type
+
+24.8
+- Added Novelist demo
+- Updated Bridge Core to 2.6.3
+- Improved PHP8 compatibility
+- Fixed import with PHP8
+
+24.7
+- Added Fashion Model Agency demo
+- Updated Bridge Core to 2.6.2
+- Updated Revolution Slider to 6.3.6
+- Updated FullPage script
+- Fixed Full Screen Page not working properly on Mac devices with Safari browser
+- Fixed theme registration with PHP8
+
+24.6
+- Added Fashion & Lifestyle Blog demo
+- Updated Bridge Core to 2.6.1
+
+24.5
+- Added Fashion Blogger demo
+- Updated Bridge Core to 2.6.0
+- Updated WPBakery page builder to 6.5.0
+- Updated Revolution Slider to 6.3.5
+- Improved demos required plugins list to include Yith WooCommerce Wishlist and Yith WooCommerce Quick View plugins
+- Fixed dependency for checkbox meta fields
+- Fixed Disable Autorotate option for 'Content Slider' Elementor Widget
+
+24.4
+- Added Fashion Photography Portfolio demo
+- Updated Bridge Core to 2.5.9
+- Updated Revolution Slider to 6.3.3
+- Improved WPML compatibility when AJAX page transitions are enabled
+- Fixed potential fatal error when on single product page when Qode Lms plugin is activated
+
+24.3
+- Added Fashion II demo
+- Updated Bridge Core to 2.5.8
+- Updated Revolution Slider to 6.3.2
+- Fixed Elementor Heading not applying Typography options when used with link option
+
+24.2
+- Added Real Estate demo
+- Added Qode Real Estate plugin
+- Added 'Qode Agency and Agent List' shortcode
+- Added 'Qode Package List' shortcode
+- Added 'Qode Property City List' shortcode
+- Added 'Qode Property City Slider' shortcode
+- Added 'Qode Property Large Slider' shortcode
+- Added 'Qode Property List' shortcode
+- Added 'Qode Property Search' shortcode
+- Added 'Qode Property Slider' shortcode
+- Added 'Qode Property Type List' shortcode
+- Added 'Qode Property Type Slider' shortcode
+- Added 'Qode Property Video Tour' shortcode
+- Updated Bridge Core to 2.5.7
+- Updated Qode Membership to 2.0.2
+- Updated Qode Woocommerce Checkout Integration to 2.0.1
+- Updated Revolution Slider to 6.3.1
+
+24.1
+- Added Sale Announcement demo
+- Updated Bridge Core to 2.5.6
+- Updated WPBakery page builder to 6.4.2
+- Updated Revolution Slider to 6.3.0
+
+24.0
+- Added Portfolio Horizontal Slider demo
+- Added 'Inverted Portfolio Slider' shortcode
+- Updated Bridge Core to 2.5.5
+- Updated Waypoints script to 4.0.1
+- Improved Elementor Lightbox Icons positioning
+- Fixed Landing Page template when 'Passepartout' option is enabled
+
+23.9
+- Added Portfolio Vertical Slider demo
+- Added 'Vertical Portfolio Slider' shortcode
+- Updated Bridge Core to 2.5.4
+- Fixed 'Portfolio Project Slider' not working properly on Safari browser
+- Fixed 'Interactive Links' for WPBakery page builder
+- Fixed Contact Form 7 not sending message when used on Qode Maintenance page
+
+23.8
+- Added Portfolio Spread demo
+- Updated Bridge Core to 2.5.3
+- Updated Qode LMS plugin to 3.0.1
+- Fixed 'Interactive Projects List' not showing category when Layout 1 is set
+- Fixed 'Advanced Course Search' not showing proper results
+
+23.7
+- Added Horizontal Portfolio demo
+- Added 'Portfolio Carousel' shortcode
+- Updated Bridge Core to 2.5.2
+- Updated Qode Restaurant plugin to 3.0.1
+- Updated Timetable Responsive Schedule For WordPress to 6.4
+- Fixed 'Interactive Projects List' shortcode not applying link target set for portfolio single properly
+- Fixed Open Table http/https link for Reservation Form shortcode
+
+23.6
+- Added Food & Dining Magazine demo
+- Updated Bridge Core to 2.5.1
+
+23.5
+- Added Print Design demo
+- Updated Bridge Core to 2.5
+- Updated Qode Instagram Widget plugin to 2.1.2
+- Updated WPBakery page builder to 6.4.1
+- Fixed Business Instagram Account connection for Qode Instagram Widget
+
+23.4
+- Added Graphic Design Portfolio demo
+- Added Agency Parallax demo
+- Added two new layouts for Interactive Project List shortcode
+- Updated Bridge Core to 2.4.9
+- Updated Qode Instagram Widget plugin to 2.1.1
+- Fixed possible warning within Qode Instagram Widget plugin
+
+23.3
+- Added Agency Pink demo
+- Added Music demo
+- Updated Bridge Core to 2.4.8
+
+23.2
+- Added Perfume Store demo
+- Added Fashion Showcase demo
+- Updated Bridge Core to 2.4.7
+- Updated Qode Twitter Feed plugin to to 2.0.2
+- Updated WPBakery page builder to 6.4.0
+- Updated Revolution Slider to 6.2.23
+- Improved 'Add To Cart' label changing when adding product to cart for Product List Shortcode
+- Fixed WPBakery Category, Tag and ID auto-suggester for Interactive Project List shortcode
+- Fixed WPBakery Category, Tag and ID auto-suggester for Portfolio Project Slider shortcode
+- Fixed WPBakery Category, Tag and ID auto-suggester for Portfolio List - Stacked shortcode
+- Fixed typo in twitter notice message
+
+23.1
+- Added Bridal Shop demo
+- Added Interactive Links Portfolio demo
+- Added 'Interactive Links' shortcode
+- Updated Bridge Core to 2.4.6
+- Updated Timetable Responsive Schedule For WordPress to 6.3
+
+23.0
+- Added Business Light demo
+- Added Jewelry Shop demo
+- Updated Bridge Core to 2.4.5
+- Fixed Portfolio Category and Portfolio Tag options for 'Portfolio Project Slider' and 'Interactive Project List' shortcodes
+- Fixed Infinite Scroll pagination not working properly with certain masonry blog templates
+
+22.9
+- Added Portfolio Dark demo
+- Added Lingerie Store demo
+- Added WooCommerce 4.4.1 compatibility
+- Updated Bridge Core to 2.4.4
+- Updated Qode Tours to 3.0.1
+- Updated Infinite Scroll plugin script
+- Fixed 'Pricing Calculator' shortcode
+- Fixed Infinite Scroll pagination when used with Masonry Blog templates
+- Fixed registration Rest API compatibility for WP 5.5
+- Fixed warning with WordPress 5.5 for admin JQuery scripts
+
+22.8
+- Added Coffeehouse demo
+- Added Coming Soon Ceramics demo
+- Updated Bridge Core to 2.4.3
+- Updated Qode Instagram Widget plugin to 2.1.0
+- Updated Qode Listing plugin to 3.0.2
+- Updated Revolution Slider to 6.2.22
+- Updated WPBakery page builder to 6.3.0
+- Updated Timetable Responsive Schedule For WordPress to 6.2
+- Fixed Qode Instagram Widget to work with latest version of Instagram API
+- Fixed Listing Custom Fields not showing in Advanced Filter section
+- Removed unused 'Image Size' option from Qode Instagram Widget ( due to Instagram API changes )
+
+22.7
+- Added Singer-songwriter demo
+- Added Hotel demo
+- Updated Bridge Core to 2.4.2
+- Updated Revolution Slider to 6.2.19
+- Fixed error with PrettyPhoto with latest version on WordPress
+
+22.6
+- Added Portfolio Illustration demo
+- Added Package Design Portfolio demo
+- Updated Bridge Core to 2.4.1
+- Updated Qode Listing plugin to 3.0.1
+- Updated LayerSlider to 6.11.2
+- Improved WooCommerce Cart Table responsiveness
+- Fixed error with Qode Listing when WP Job Manager - WooCommerce Paid Listings plugin is not activated
+
+22.5
+- Added Listing Demo
+- Added Fashion Portfolio Demo
+- Added 'Listing Advanced Search' elementor widget
+- Added 'Listing Banner' elementor widget
+- Added 'Listing Blog List' elementor widget
+- Added 'Listing Categories' elementor widget
+- Added 'Listing List' elementor widget
+- Added 'Listing Packages' elementor widget
+- Added 'Listing Project Info' elementor widget
+- Added 'Listing Regions' elementor widget
+- Added 'Listing Search' elementor widget
+- Added 'Listing Simple Search' elementor widget
+- Added 'Listing Slider' elementor widget
+- Added 'Listing Testimonials' elementor widget
+- Updated Bridge Core to 2.4
+- Updated Qode Listing plugin to 3.0
+
+22.4
+- Added Author demo
+- Added Rattan Furniture demo
+- Updated Bridge Core to 2.3.9
+
+22.3.1
+- Updated Bridge Core to 2.3.8
+- Fixed import functionality with latest version of Elementor plugin if WordPress importer is not installed
+
+22.3
+- Added Artisan Bag Shop demo
+- Added Curriculum Vitae demo
+- Updated Bridge Core to 2.3.7
+- Updated Revolution Slider to 6.2.17
+
+22.2
+- Added Aromatherapy demo
+- Added Hairdresser demo
+- Updated Bridge Core to 2.3.6
+
+22.1
+- Added Travel Tours demo
+- Added Consultant demo
+- Added 'Destinations Grid' elementor widget
+- Added 'Top Reviews Carousel' elementor widget
+- Added 'Tour Type List' elementor widget
+- Added 'Tours Carousel' elementor widget
+- Added 'Tours Filters' elementor widget
+- Added 'Tours List' elementor widget
+- Updated Bridge Core to 2.3.5
+- Updated Qode Tours plugin to 3.0
+
+22.0
+- Added Massage Parlor demo
+- Added Green Energy demo
+- Updated Bridge Core to 2.3.4
+- Updated Qode News to 3.0.1
+- Updated Revolution Slider to 6.2.15
+- Updated Google Fonts
+- Fixed Qode News Layouts' pagination ( load more and infinite scroll ) with offset functionality
+
+21.9
+- Added Shoe Store demo
+- Added Pharmacy demo
+- Added Twitch icon as social icon for 'Team' shortcode
+- Updated Bridge Core to 2.3.3
+- Updated Qode Quick Links to 2.1
+- Improved Custom Widget Area to render ID
+- Fixed Qode Quick Links functionality
+- Fixed 'Product List' shortcode layout with filters after applying filter
+
+21.8
+- Added Pianist demo
+- Added Coming Soon Circular demo
+- Updated Bridge Core to 2.3.2
+- Updated year values for 'Countdown' shortcode
+- Improved import functionality
+- Improved 'Product List' shortcode sale badge percentage calculation
+- Fixed warning for Pricing Tables shortcode
+
+21.7.1
+- Updated Bridge Core to 2.3.1
+- Fixed error with 'Product List' Elementor widget when WooCommerce plugin is not activated
+- Fixed import functionality with latest version of Elementor plugin
+
+21.7
+- Added Cake Shop demo
+- Added Education demo
+- Added 'Course Features' elementor widget
+- Added 'Course List' elementor widget
+- Added 'Course Search' elementor widget
+- Added 'Course Slider' elementor widget
+- Added 'Course Table' elementor widget
+- Added 'Instructor List' elementor widget
+- Added 'Instructor Slider' elementor widget
+- Added 'Instructor' elementor widget
+- Added color option for Course Category taxonomy to be used in Course List shortcode
+- Update Bridge Core to 2.3
+- Updated Qode LMS plugin to 3.0
+- Updated Revolution Slider to 6.2.11
+
+21.6
+- Added Interior Design Blog demo
+- Added Studio Creative demo
+- Updated Bridge Core to 2.2.9
+- Updated Revolution Slider to 6.2.10
+- Fixed Google Map Shortcode not using Snazzy Map style in some cases
+
+21.5
+- Added Urban Clothing Store demo
+- Added Creative Magazine demo
+- Added 'Layout 1' elementor widget
+- Added 'Layout 2' elementor widget
+- Added 'Layout 3' elementor widget
+- Added 'Post Carousel 1' elementor widget
+- Added 'Post Slider 1' elementor widget
+- Added 'Video Layout 1' elementor widget
+- Added 'Video Layout 2' elementor widget
+- Updated Bridge Core to 2.2.8
+- Updated Qode News plugin to 3.0
+- Updated Revolution Slider to 6.2.9
+- Fixed Font Family option for Subtitle in Qode Options -> Fonts
+- Fixed 'Header/Bullet' option from 'Vertical Split Slider' elementor widget not changing Header Skin
+- Fixed warning with latest version of PHP in import module
+
+21.4
+- Added Lookbook demo
+- Added Gym Dark demo
+- Updated Bridge Core to 2.2.7
+- Updated Revolution Slider to 6.2.6
+
+21.3
+- Added Cosmetics demo
+- Added Ice Hockey demo
+- Added WooCommerce 4.1.0 compatibility
+- Updated Bridge Core to 2.2.6
+- Updated Revolution Slider to 6.2.5
+
+21.2
+- Added Wedding Invite demo
+- Added Blog Illustrated demo
+- Fixed Portfolio Project Slider to apply Portfolio External Link and Target
+- Updated Bridge Core to 2.2.5
+- Updated WPBakery page builder to 6.2.0
+
+21.1
+- Added Art Museum demo
+- Added Portfolio Gallery demo
+- Updated Bridge Core to 2.2.4
+
+21.0
+- Added Guitar Making demo
+- Added Portfolio Alternating demo
+- Updated Bridge Core to 2.2.3
+
+20.9
+- Added Handcrafted demo
+- Added Artist demo
+- Updated Bridge Core to 2.2.2
+- Fixed Blog Vertical Loop template not loading proper posts when used as Home/Front page
+
+20.8
+- Added Creative Agency Dark demo
+- Added Portfolio Animated demo
+- Added Portfolio Stacked List shortcode
+- Added 'Image for Portfolio Stacked List' meta box for Portfolio Item
+- Added 'X Offset for Portfolio Stacked List' meta box for Portfolio Item
+- Added 'Y Offset for Portfolio Stacked List' meta box for Portfolio Item
+- Updated Bridge Core to 2.2.1
+- Updated LayerSlider to 6.11.1
+- Improved grid responsiveness when Vertical Menu is enabled and Elementor page builder in use
+
+20.7
+- Added Skiing demo
+- Added Antique Store demo
+- Updated Bridge Core to 2.2
+
+20.6
+- Added Tea House demo
+- Added Team Building demo
+- Updated Bridge Core to 2.1.9
+- Fixed 'Accordion' shortcode when used in 'Vertical Split Slider' Shortcode
+- Fixed 'Counter' shortcode when used in 'Vertical Split Slider' Shortcode with Advanced Responsiveness
+
+20.5.1
+- Fixed conflict between FontAwesome 4 and FontAwesome 5 icon packs in certain situations
+
+20.5
+- Added Gaming Parallax demo
+- Added Paintball demo
+- Added Chiropractic demo
+- Added Font Awesome 5 as separate icon pack
+- Added option to disable Font Awesome 5 icon pack in Qode Options -> Performance
+- Added WooCommerce 4.0.0 compatibility
+- Updated Bridge Core to 2.1.8
+- Updated Revolution Slider to 6.1.7
+- Updated LayerSlider to 6.10.2
+- Fixed 'Icon With Text' Icon Hover Color option for elementor widget not applying in live editing
+
+20.4
+- Added Agency Creative demo
+- Added Food Truck demo
+- Added Oil Industry demo
+- Added Performance panel in Qode Options
+- Added option to disable various Icon Packs in Qode Options -> Performance
+- Added 'Developer Tool' tab for 'Button', 'Button V2', 'Icon', 'Icon List Item', 'Icon With Text', 'Social Icons', 'Social Share' and 'Social Share List' elementor widgets in which you can change default widget view to shortcode view which can be reusable
+- Updated Bridge Core to 2.1.7
+
+20.3
+- Added Author Blog demo
+- Added Fashion Retail demo
+- Added App Demonstration demo
+- Added Construction Firm demo
+- Updated Bridge Core to 2.1.6
+- Improved 'Elliptical Slider' shortcode RTL compatibility
+- Improved Elementor Sidebar widget to use theme default style and theme style options for sidebar
+- Fixed Elementor Sidebar widget when used with Widget Area that has Qode Sticky Sidebar Widget
+
+20.2
+- Added Cabin Rental demo
+- Added Consumer Electronics Store demo
+- Added SaaS demo
+- Added Skin option for 'Preview Slider' shortcode and Elementor widget
+- Updated Bridge Core to 2.1.5
+- Fixed separator in post title for Blog Compound page template when WPBakery is not activated
+
+20.1
+- Added Modeling Agency demo
+- Added Food Delivery demo
+- Added Music Group demo
+- Added Architecture Showcase demo
+- Added Wedding Blog demo
+- Added 'Portfolio Project Slider' shortcode and elementor widget
+- Improved 'Custom Font' typed out effect 'Type Out Effect' option for elementor
+- Updated Bridge Core to 2.1.4
+
+20.0
+- Added Illustration Portfolio demo
+- Added Liquor Showcase demo
+- Added Music Artist demo
+- Added Pasta demo
+- Added Ballet demo
+- Added 'Album' Elementor widget
+- Added 'Album Player' Elementor widget
+- Added 'Albums List' Elementor widget
+- Added 'Events List' Elementor widget
+- Added 'Image size' option for 'Latest posts' shortcode and elementor widget
+- Updated Bridge Core plugin to 2.1.3
+- Updated Qode Music plugin to 2.1
+- Improved 'Albums List' shortcode to show Stores Album List templates
+- Fixed 'Image hover' Elementor widget not showing properly on frontend view
+
+19.9
+- Added Manicure demo
+- Added Design Conference demo
+- Added Moving Services demo
+- Added Yoga and Pilates demo
+- Added Electric Scooter Rental demo
+- Updated Bridge Core plugin to 2.1.2
+- Updated Revolution Slider to 6.1.7
+- Updated Timetable Responsive Schedule For WordPress to 6.0
+- Fixed External Link Target option for 'Portfolio List' shortcode
+
+19.8
+- Added Blogger demo
+- Added Coffee Shop demo
+- Added Book Store demo
+- Added Honey demo
+- Added Transport Services demo
+- Added WooCommerce 3.9.0 compatibility
+- Updated Bridge Core plugin to 2.1.1
+- Updated Revolution Slider to 6.1.7
+- Fixed Load More pagination for Masonry Blog templates when set for Home/Front page
+
+19.7
+- Added Art Shop demo
+- Added Political Candidate demo
+- Added Artist Minimal demo
+- Added Tobacco Shop demo
+- Added Music School demo
+- Added 'Course Features' Elementor widget
+- Added 'Course List' Elementor widget
+- Added 'Course Search' Elementor widget
+- Added 'Course Slider' Elementor widget
+- Added 'Course Table' Elementor widget
+- Added 'Instructor List' Elementor widget
+- Added 'Instructor Slider' Elementor widget
+- Added 'Instructor' Elementor widget
+- Added new 'Panel Area' widget area in Appearance -> Widgets
+- Added Qode Portfolio List widget
+- Added Qode Panel Opener widget
+- Added 'Panel Area background color' option in Qode Options -> Panel Area
+- Added 'Panel Area Close Label' option in Qode Options -> Panel Area
+- Updated Bridge Core plugin to 2.1
+- Updated Qode LMS plugin to 2.0.4
+- Updated Revolution Slider to 6.1.6
+- Updated Google Fonts
+- Improved Qode Import functionality to import Elementor settings
+- Improved Elementor content option for 'Qode Accordion' elementor widget
+- Improved Elementor content option for 'Qode Advanced Tabs' elementor widget
+- Fixed warning with 'Horizontal Timeline' shortcode
+- Fixed 'Reviews' link on Single Product page not opening Reviews Accordion when 'Product Type' of single product is set to Default
+- Fixed Questions not being assigned to Quizes properly for Qode LMS plugin
+
+19.6
+- Added Web Studio Demo
+- Added Furniture Brand Demo
+- Added Creative Portfolio Demo
+- Added Agency Showcase Demo
+- Added Festival Demo
+- Added Art Portfolio Demo
+- Added 'Numbered Carousel' shortcode
+- Added 'Numbered Carousel' Elementor widget
+- Updated Bridge Core plugin to 2.0.9
+- Fixed 'Google Map' Elementor widget 'Custom Pin' option
+
+19.5
+- Added Bridge Original (Elementor) Demo
+- Added Brutalist Portfolio Demo
+- Added Lingerie Shop Demo
+- Added Beauty Store Demo
+- Updated Bridge Core plugin to 2.0.8
+- Improved Portfolio Loading Type option for 'Portfolio list' shortcode to trigger on appear
+- Fixed Portfolio Loading Type option for 'Portfolio list' shortcode not working properly for non-masonry types
+- Fixed Icon option for 'Message' shortcode when 'With Icon' type is set
+- Fixed image sizes for WooCommerce Single Product gallery images
+
+19.4
+- Added Tattoo Parlor Demo
+- Added Coming Soon Landing Demo
+- Added Photo Portfolio Demo
+- Added Environmental NGO Demo
+- Added Theater Demo
+- Updated Bridge Core plugin to 2.0.7
+- Updated WPBakery page builder to 6.1
+- Updated LayerSlider to 6.10
+- Improved Wishlist page responsive with new Yith Wishlist page layout
+- Fixed Elementor 'Image Gallery' widget when frame is set
+- Fixed Elementor 'Portfolio List' widget's Justified Gallery default hover type
+- Fixed Color Picker for meta boxes
+
+19.3
+- Added Solar Panels Demo
+- Added Running Crew Demo
+- Added Camping Demo
+- Added Interactive Portfolio Demo
+- Added Gelateria Demo
+- Added 'Interactive Project List' shortcode
+- Added Elementor Widget 'Interactive Project List'
+- Added Elementor Widget 'Expendable Section'
+- Added 'Right Side Fixed' widget area
+- Updated Bridge Core plugin to 2.0.6
+- Updated Revolution Slider to 6.1.5
+- Changed 'Visual Composer' labels with 'WPBakery' in global options panel
+
+19.2
+- Added Landscape Architecture Demo
+- Added Cocktail Bar Demo
+- Added Property Showcase Demo
+- Added Medical Marijuana Demo
+- Added Esports Demo
+- Updated Bridge Core plugin to 2.0.4
+- Improved Qode Import functionality
+- Fixed Portfolio List's Hover Animation Types for Standard Type
+- Fixed Horizontal Timeline Shortcode when Timeline Position option is set to Bottom
+- Fixed Category Filter for Product List shortcode
+- Fixed Classic Editor Qode shortcodes conflict with latest version of WordPress
+
+19.1
+- Added Ceramic Store Demo
+- Added Ridesharing Company Demo
+- Added Personal Blog Demo
+- Added Hospital Demo
+- Added Home Décor Demo
+- Added Kiko Font option for Fullscreen Menu Opener in Qode Options -> Header -> Fullscreen Menu
+- Updated Bridge Core plugin to 2.0.3
+- Fixed Kiko Font option for Search Opener
+
+19.0.2
+- Updated Bridge Core plugin to 2.0.2
+- Updated bridge-core.pot file
+- Updated bridge.pot file
+- Improved Qode Import functionality
+
+19.0.1
+- Added WooCommerce 3.8.0 compatibility
+- Updated Bridge Core plugin to 2.0.1
+- Improved Qode Import functionality
+- Fixed 'Blog Slider' shortcode not showing
+- Fixed warning for 'Portfolio List' shortcode
+- Fixed potential error on Portfolio Page when Video Lightbox option is set in Qode Options -> Portfolio
+
+19.0
+- Added SEO Agency Demo
+- Added Shared Workspace Demo
+- Added Design Agency Demo
+- Added Speech Therapist Demo
+- Added Astrology Demo
+- Added Dairy Farm Demo
+- Added Portfolio Compact Demo
+- Added Consulting Company Demo
+- Added Jewelry Showcase Demo
+- Added Fundraising Demo
+- Added Accounting Demo
+- Added Farmers’ Market Demo
+- Added Cosmetic Surgery Demo
+- Added Architect Demo
+- Added Catering Service Demo
+- Added Personal Resume Demo
+- Added Décor Store Demo
+- Added Fine Dining Restaurant Demo
+- Added Split Screen Portfolio Demo
+- Added Travel Blogger Demo
+- Added Cinema Demo
+- Added App Landing Demo
+- Added Wedding Photography Demo
+- Added Minimal Portfolio Demo
+- Added 'Qode Button' widget
+- Added 'Qode Icon List Item' widget
+- Added 'Qode Icon With Text' widget
+- Added 'Qode Separator' widget
+- Added Kiko Icon Pack
+- Added 'Working Hours' widget for Qode Restaurant plugin
+- Added option for SVG Sidearea opener in Qode Options -> Header -> Sidearea
+- Added option for SVG Fullscreen Menu opener and closer in Qode Options -> Header -> Fullscreen Menu
+- Added Kiko icon pack option for 'Back to Top' in Qode Options -> Elements -> Back To Top
+- Added Elementor Compatibility
+- Added Theme Verification
+- Added Elementor Widget 'Call to Action'
+- Added Elementor Widget 'Animated icons with text'
+- Added Elementor Widget 'Banner'
+- Added Elementor Widget 'Blockquote'
+- Added Elementor Widget 'Blog Slider'
+- Added Elementor Widget 'Button'
+- Added Elementor Widget 'Qode Carousel'
+- Added Elementor Widget 'Qode Process'
+- Added Elementor Widget 'Qode Clients'
+- Added Elementor Widget 'Content Slider'
+- Added Elementor Widget 'Countdown'
+- Added Elementor Widget 'Counter'
+- Added Elementor Widget 'Cover Boxes'
+- Added Elementor Widget 'Custom Font'
+- Added Elementor Widget 'Expanding Images'
+- Added Elementor Widget 'Fullscreen Sections'
+- Added Elementor Widget 'Qode Google Map'
+- Added Elementor Widget 'Qode Horizontal Marquee'
+- Added Elementor Widget 'Icon List Item'
+- Added Elementor Widget 'Icon With Text'
+- Added Elementor Widget 'Icon'
+- Added Elementor Widget 'Image Gallery'
+- Added Elementor Widget 'Image Hover'
+- Added Elementor Widget 'Qode Image Slider'
+- Added Elementor Widget 'Image With Text Over'
+- Added Elementor Widget 'Image With Text'
+- Added Elementor Widget 'Qode In-Device Slider'
+- Added Elementor Widget 'Latest Posts 2'
+- Added Elementor Widget 'Line Graph'
+- Added Elementor Widget 'Blog Masonry'
+- Added Elementor Widget 'Masonry Gallery'
+- Added Elementor Widget 'Message'
+- Added Elementor Widget 'Old Accordion'
+- Added Elementor Widget 'Old Tabs'
+- Added Elementor Widget 'Ordered List'
+- Added Elementor Widget 'Parallax Layers'
+- Added Elementor Widget 'Pie Chart 3 (Doughnut)'
+- Added Elementor Widget 'Pie Chart 2 (Pie)'
+- Added Elementor Widget 'Pie Chart With Icon'
+- Added Elementor Widget 'Pie Chart'
+- Added Elementor Widget 'Portfolio List'
+- Added Elementor Widget 'Portfolio Slider'
+- Added Elementor Widget 'Qode Preview Slider'
+- Added Elementor Widget 'Qode Pricing List'
+- Added Elementor Widget 'Pricing Tables'
+- Added Elementor Widget 'Product List - Elegant'
+- Added Elementor Widget 'Product List - Masonry'
+- Added Elementor Widget 'Product List Pinterest'
+- Added Elementor Widget 'Progress Bar Icon'
+- Added Elementor Widget 'Progress Bar Vertical'
+- Added Elementor Widget 'Progress Bar'
+- Added Elementor Widget 'Separator With Icon'
+- Added Elementor Widget 'Bridge Service Table'
+- Added Elementor Widget 'Social Icons'
+- Added Elementor Widget 'Social Share List'
+- Added Elementor Widget 'Social Share'
+- Added Elementor Widget 'Team'
+- Added Elementor Widget 'Testimonials Carousel'
+- Added Elementor Widget 'Testimonials Masonry'
+- Added Elementor Widget 'Testimonials'
+- Added Elementor Widget 'Text Marquee'
+- Added Elementor Widget 'Unordered List
+- Added Elementor Widget 'Qode Vertical Split Slider'
+- Added Elementor Widget 'Qode Accordion'
+- Added Elementor Widget 'Advanced Call to Action'
+- Added Elementor Widget 'Advanced Image Gallery'
+- Added Elementor Widget 'Advanced Pricing List'
+- Added Elementor Widget 'Advanced Pricing Table'
+- Added Elementor Widget 'Qode Advanced Tabs'
+- Added Elementor Widget 'Blog Carousel - Titled'
+- Added Elementor Widget 'Qode Button V2'
+- Added Elementor Widget 'Call To Action Section'
+- Added Elementor Widget 'Cards Gallery'
+- Added Elementor Widget 'Cards Slider'
+- Added Elementor Widget 'Comparative Features Table'
+- Added Elementor Widget 'Comparison Slider'
+- Added Elementor Widget 'Qode Crossfade Images'
+- Added Elementor Widget 'Elliptical Slider'
+- Added Elementor Widget 'Gradient Icon With Text'
+- Added Elementor Widget 'Horizontal Timeline'
+- Added Elementor Widget 'Image With Icon And Text'
+- Added Elementor Widget 'Info Card With Icon'
+- Added Elementor Widget 'Info Card'
+- Added Elementor Widget 'Interactive Icon Showcase'
+- Added Elementor Widget 'Interest Rate Calculator
+- Added Elementor Widget 'Item Showcase'
+- Added Elementor Widget 'Latest Posts'
+- Added Elementor Widget 'Multi-device Showcase
+- Added Elementor Widget 'Numbered Process'
+- Added Elementor Widget 'Pricing Calculator'
+- Added Elementor Widget 'Product List'
+- Added Elementor Widget 'Report Sheet'
+- Added Elementor Widget 'Scrolling Image'
+- Added Elementor Widget 'Simple Quote
+- Added Elementor Widget 'Sliding Image Holder'
+- Added Elementor Widget 'Specification List'
+- Added Elementor Widget 'Qode Split Scrolling Section'
+- Added Elementor Widget 'Vertical Separator'
+- Added Elementor Widget 'Qode Video Box'
+- Added Elementor Widget 'Workflow'
+- Added option to disable Elementor default fonts in Qode Options -> Elementor
+- Updated Bridge Core plugin to 2.0
+- Updated Qode Restaurant plugin to 3.0
+- Updated Revolution Slider to 6.1.3
+- Improved 'Product List' shortcode
+- Improved Qode Import functionality
+- Improved 'Portfolio list' templates
+- Fixed Pause on hover option for 'Image Gallery' shortcode
+- Fixed Font Weight option for 'Counter' shortcode
+
+
+18.2.1
+- Updated Bridge Core to 1.0.7
+- Updated Qode Music plugin to 2.0.3
+- Updated Qode Listing plugin to 2.0.3
+- Updated Qode Tours plugin to 2.0.3
+- Updated Qode Instagram Widget plugin to 2.0.2
+- Updated Qode Twitter Feed plugin to 2.0.1
+- Updated Revolution Slider to 6.1.2
+- Updated LayerSlider plugin to 6.9.2
+- Updated Google Fonts
+- Improved Qode Instagram Widget plugin security
+- Improved Qode Twitter Feed plugin security
+- Fixed Centered Menu positioning for Standard and Sticky Header
+- Fixed Ordering Filter for 'Product List' shortcode
+- Fixed Ordering Filter for 'Product List' shortcode
+- Updated Google Fonts
+- Fixed Font Options from Qode Options -> Fonts not applying properly for 'Page Text Above Title'
+- Fixed Font Weight option not applying for 'Counter' shortcode
+- Fixed 'Tracklist' title showing on Album Single template when no Tracks are set for album
+- Fixed 'Listing Advanced Search' shortcode error when no 'Listing Type' is set and 'Show Map' option is selected
+- Fixed conflict between Classic Editor Qode shortcodes and WPBakery's Save Template functionality
+- Fixed Additional Booking fields not showing in Tour booking mail
+- Removed unused file instagram-redirect.php from Qode Instagram Widget plugin
+- Removed unused file twitter-redirect.php from Qode Twitter Feed plugin
+
+18.1
+- Added compatibility for WordPress 5.2 'wp_body_open' action
+- Updated Bridge Core plugin to 1.0.5
+- Updated Qode News plugin to 2.0.2
+- Updated Qode Tours plugin to 2.0.1
+- Updated Qode LMS plugin to 2.0.3
+- Updated Qode Listing plugin to 2.0.2
+- Updated Qode Instagram Feed plugin to 2.0.1
+- Updated Qode Restaurant pluging to 2.0.1
+- Updated WPBakery Page Builder plugin to 6.0.2
+- Updated LayerSlider plugin to 6.8.4
+- Improved 'Counter' appear effect
+- Improved Qode Import functionality
+- Fixed Qode News and WPML conflict for archive pages
+- Fixed Elements Holder not applying responsive padding properly
+- Fixed Logo height for certain header types
+- Fixed escaping issue for the Qode Workflow shortcode
+- Fixed Elements Holder responsive paddings not applying when Page Transitions are enabled
+- Fixed Contact Form 7's Recaptcha not loading when Page Transitions are enabled
+- Fixed Reviews functionality for Qode Tours, Qode LMS and Qode Listing plugins
+- Fixed issue with Blog Vertical Loop template
+- Fixed conflict with global and per page Show Footer Top/Bottom Options when Page Transitions are enabled
+- Fixed 'Old Tabs' shortcode conflict with new version of WPBakery Page Builder
+- Fixed potential issue with Qode Instagram feed data fetching
+- Fixed 'Menu Order' functionality for Restaurant Menu Items
+- Fixed Courses' categories archive pages not displaying proper Courses
+
+18.0.9
+- Added WooCommerce 3.6.1 compatibility
+- Fixed Yith QuickView modal now showing product images
+- Fixed 'Single Post Type' option per post now applying properly
+- Fixed Portfolio Single - Slider Layouts when used with self hosted video
+- Fixed 'Qode Preview Slider' shortcode when used with Page transitions
+
+18.0.8
+- Updated Qode Listing plugin to 2.0.1
+- Fixed 'Smooth Scroll' functionality with latest version of Google Chrome browser
+- Fixed Classic Editor Qode shortcodes functionality
+- Fixed Contact Page not sending data when Recaptcha is used
+- Fixed 'Qode SEO Title' option per page not applying properly
+- Fixed issues with Google Maps when used Qode Listing Plugin
+- Fixed certain dependant Qode Options
+
+18.0.7
+- Updated Qode LMS plugin to 2.0.2
+- Fixed title tag not showing properly in 'Instructor' shortcode
+- Fixed problem with registration of sidebars and options set in Qode Options
+- Fixed problem with changing Menu Items order in Appearance -> Menus
+- Fixed showing of addresses in WooCommerce 'My Account' page
+- Fixed issue with saving certain types of meta boxes
+
+18.0.6
+- Updated Bridge Core plugin to 1.0.4
+- Updated bridge-core.pot file
+- Improved template loading
+
+18.0.5
+- Updated Bridge Core plugin to 1.0.3
+- Improved theme security
+- Fixed 'Empty Space' when used with image
+- Fixed label escaping in 'thankyou.php' WooCommerce file
+- Fixed image attachment additional meta fields in Media section
+- Fixed option for 2 columns footer not showing up in Qode Options -> Footer
+- Fixed 'Scroll Amount for Sticky' option in Qode Options -> Header
+- Fixed problem with Contact Page
+- Fixed problem with Yith Wishlist's Add To Wishlist functionality
+
+18.0.4
+- Changed logic for including/excluding JQuery UI scripts
+- Changed global variable '$qode_options_proya' to '$bridge_qode_options'
+- Changed global variable '$qodeFramework' to '$bridge_qode_framework'
+- Updated Bridge Core plugin to 1.0.2
+- Updated Qode LMS plugin to 2.0.1
+- Updated Qode Music plugin to 2.0.1
+- Updated Qode News plugin to 2.0.1
+- Update Qode Membership plugin to 2.0.1
+- Fixed Qode Sliders taxonomy fields not saving
+- Fixed enqueueing of the Qode Membership scripts
+
+18.0.3
+- Fixed plugins activation
+
+18.0.2
+- Fixed appear problem for 'Advanced Image Gallery' shortcode
+- Fixed styling problems for 'Split Screen Sections' shortcode
+- Fixed styling problem for 'Horizontal Timeline' shortcode
+- Fixed 'Calculate Shipping' label not showing up on Cart Page
+- Fixed problem with 'Product List' shortcode
+
+18.0.1
+– Fixed ‘Empty Space’ shortcode
+– Fixed problem with Yoast Plugin and Page Transitions
+– Fixed warnings on shop pages
+
+18.0
+- Added Bridge Core plugin
+- Added WooCommerce 3.5.6 compatibility
+- Improved theme templates, modules and functions
+- Improved theme security
+- Improved theme performance (Added logic to create static css, js files instead of php (style_dynamic.php, style_dynamic_responsive.php and default_dynamic.php))
+- Updated Qode Instagram Feed plugin to 2.0
+- Updated Qode Listing plugin to 2.0
+- Updated Qode LMS plugin to 2.0
+- Updated Qode Membership plugin to 2.0
+- Updated Qode Music plugin to 2.0
+- Updated Qode News plugin to 2.0
+- Updated Qode Quicklinks plugin to 2.0
+- Updated Qode Restaurant plugin to 2.0
+- Updated Qode Tours plugin to 2.0
+- Updated Qode Tweeter Feed plugin to 2.0
+- Updated Visual Composer to 5.7
+- Updated Revolution Slider to 5.4.8.3
+- Updated Timetable Responsive Schedule For WordPress to 5.8
+- Escaped all variables, text domains etc.
+- Renamed all functions, hooks, templates with unique name
+- Removed custom_css.php and custom_js.php files and improved logic to add custom code as inline
+- Removed unnecessary functions, variables etc.
+- Fixed theme text domain
+- Fixed bugs
+- Fixed problem with WPML in 'Advanced Image Gallery' shortcode
+
+
+17.2
+- Added WooCommerce 3.5.2 compatibility
+- Updated Visual Composer to 5.6
+
+17.1
+- Added support for WordPress 5.0
+- Fixed problem with 'Calculate Shipping' label on cart page
+- Fixed caption translate problem with WPML in single image shortcode
+
+17.0
+- Added WooCommerce 3.5 compatibility
+- Added option to disable loading of JQuery UI scripts in Qode Options -> General
+- Updated Qode Listing plugin to 1.0.8
+- Updated Qode LMS plugin to 1.0.2
+- Fixed Yoast plugin conflict with Listing types taxonomy
+- Fixed Qode Instructor's Courses list showing all Courses when no Courses are set for that Instructor
+- Fixed 'Slider From Header Bottom' and 'Search Covers Header' search types conflicts with links on page
+
+16.9
+- Added Woocommerce 3.4.6 compatibility
+- Added option to enable link for 'Icon with Text' shortcode
+- Added options to style Search Results Page in Qode Options
+- Added option to choose Mobile Menu Navigation in Appearance -> Menus
+- Updated Qode Music plugin to 1.0.3
+- Updated Qode Tours plugin to 1.0.2
+- Updated Visual Composer to 5.5.5
+- Fixed option to change Event Single slug in Qode Options -> Events
+- Fixed Tour Search page search by month functionality
+- Fixed Single Event and Single Album date rendering issue when date is set in language different from English
+- Removed unused file 'recaptchalib.php'
+
+16.8
+- Improved PrettyPhoto functionality for 'Advanced Image Gallery' shortcode when Slider and Carousel Gallery Type is selected
+- Improved Header Responsiveness when Header in Grid option is enabled
+- Improved video lesson layout inside Course popup
+- Updated Qode LMS plugin to 1.0.1
+- Updated Qode News plugin to 1.0.5
+- Fixed 'Progress Bar' functionality when used in 'Vertical Split Slider' if Advanced Responsiveness is enabled
+- Fixed Section ID not applying for 'Qode Accordion' shortcode
+- Fixed Sort by Popularity for all Post Layout shortcodes in Qode News plugin
+- Fixed showing of the empty Product Category in Product Category Filters when enabled inside 'Product List' shortcode
+- Fixed meta box styling when Gutenberg is installed
+
+16.7
+- Added Virtual Reality demo
+- Added Music Band demo
+- Improved style and responsiveness of Tour Checkout page
+- Updated Visual Composer to 5.5.2
+- Updated Timetable Responsive Schedule For WordPress to 5.5
+- Updated Qode Tours plugin to 1.0.1
+- Updated Qode Music plugin to 1.0.2
+- Fixed problem with play and pause functionality in 'Album Player' shortcode
+- Fixed google map js error when no Google Map API key is entered
+
+16.6
+- Added Book Landing Demo
+- Added Nursing Home Demo
+- Added option to disable Google Fonts in Qode Options -> General
+- Added option to upload Custom Font in Qode Options -> General
+- Updated Revolution Slider to 5.4.8
+- Updated Visual Composer to 5.5.1
+- Updated Qode Listing plugin to 1.0.7
+- Improved function to include google maps api
+
+16.5
+- Added Catering Demo
+- Added Chocolate Demo
+- Updated Layer Slider to 6.7.6
+- Improved responsiveness of 'Latest Posts' shortcode when 'Image on the left - boxed' type is selected
+
+16.4
+- Added Climbing Club Demo
+- Added Organic Food Store Demo
+- Added Fitness Tracker Demo
+
+16.3
+- Added Delivery Demo
+- Added Photo App Demo
+- Added Woocommerce 3.4.1 compatibility
+- Added option to enable Acceptance Checkbox field on Contact Page template in Qode Options -> Contact Page -> Contact Form Settings
+- Updated Qode Listing plugin to 1.0.6
+- Fixed special character autocomplete appearance for all Listing Search types
+
+16.2.1
+- Fixed problem with updating Revolution Slider
+
+16.2
+- Added Designer Presentation Demo
+- Added Beachwear Store Demo
+- Added Exotic Travels Demo
+- Added TV Set Showcase Demo
+- Added 'Comparison Slider' shortcode
+- Added Woocommerce 3.4.0 compatibility
+- Updated Revolution Slider to 5.4.7.4
+
+16.1
+- Added Mountain Climbing Demo
+- Added Developer Portfolio Demo
+- Added Jewelry Demo
+- Updated Layer Slider to 6.7.5
+
+16.0.1
+- Fixed problem with installing Woocommerce Checkout Integration plugin
+
+16.0
+- Added Nail Salon Demo
+- Added Educational Center Demo
+- Added Trendy Blog Demo
+- Added Creative Office Demo
+- Added Backpacks Demo
+- Added Qode LMS plugin
+- Added Qode Woocommerce Checkout Integration plugin
+- Added Welcome Page after activate theme
+- Added 'Course Features' shortcode
+- Added 'Course List' shortcode
+- Added 'Advanced Course Search' shortcode
+- Added 'Course Slider' shortcode
+- Added 'Course Table' shortcode
+- Added 'Instructor' shortcode
+- Added 'Instructor List' shortcode
+- Added 'Instructor Slider' shortcode
+
+15.0
+- Added Travel Demo
+- Added Water Plant Demo
+- Added Spa & Wellness Demo
+- Added Qode Tours plugin
+- Added 'Destinations Grid' shortcode
+- Added 'Tour Type List' shortcode
+- Added 'Tours Carousel' shortcode
+- Added 'Tours List' shortcode
+- Added 'Tours Filters' shortcode
+- Added 'Tours Top Reviews Carousel' shortcode
+- Added 'Qode Tour List' widget
+- Added 'Qode Tour Categories' widget
+- Improved displaying of the price on front-end of the single Listing Item when it is discounted
+- Fixed FontAwesome icons not displaying properly when Font Family option is set for Header Top in Qode Options -> Fonts -> Header & Menu
+- Fixed 'Qode Listing Simple Search' not displaying proper search results
+- Fixed social icons not displaying on front-end of the single Listing Item
+- Updated Qode Listing plugin to 1.0.5
+
+14.5
+- Added Cryptocurrency Demo
+- Added Pop Music Magazine Demo
+- Added Smartphone Store Demo
+- Updated Revolution Slider to 5.4.7.3
+
+14.4
+- Added Matcha Demo
+- Added New Album Release Demo
+- Added Fast Food Demo
+- Added Pet Shop Demo
+- Added option to set h1 as title tag for 'Icon With Text' shortcode
+- Added option to set h1 as title tag for 'Image With Text' shortcode
+- Added Custom CSS class option for 'Button' shortcode
+- Added Page Title Responsive options in Qode Options -> Fonts for Tablet Portrait and Mobile screen resolutions
+- Updated Qode News plugin to 1.0.4
+- Updated Qode Music plugin to 1.0.1
+- Improved translation of labels in Qode News plugin
+- Improved scripts load ordering when Qode Music plugin is activated
+- Fixed comments not showing on single Blog post when Masonry Gallery shortcode used in blog's content
+- Fixed sidebar options for single Portfolio not overriding global options in Qode Options -> Portfolio
+- Fixed Title tag option for 'Pricing Table' shortcode when Standard type is set
+- Fixed the default Shop page content rendering issue
+
+14.3
+- Added Urban Wear Demo
+- Added Alternative Band Demo
+- Added Drone Studio Demo
+- Added Digital Studio Demo
+- Added Qode Music plugin
+- Added 'Albums List' shortcode
+- Added 'Album' shortcode
+- Added 'Album Player' shortcode
+- Added 'Event List' shortcode
+- Added option to enable WooCommerce currency for Listings in Qode Options -> Listing
+- Added Bridge Landing in Qode Import. Please note that list of demos will not be displayed, because that's the part of plugin which we created only to show demos.
+- Updated Qode Listing plugin to 1.0.4
+- Improved responsive grid width when Left Menu is enabled
+- Fixed navigation arrows not showing on PrettyPhoto when 'Qode Image Slider' shortcode is used
+- Fixed Singular Minute Label not showing for 'Countdown' shortcode
+- Fixed Custom Widget not appearing in Sidebar to Display option in Qode Options -> Portfolio
+
+14.2
+- Added Interactive Agency Demo
+- Added Creative Studio Demo
+- Added Pizza Parlor Demo
+- Added Freelancer Portfolio Demo
+- Added Environmental Organization Demo
+- Added Kids’ Fashion Demo
+- Added Fashion Store Demo
+- Added Boxing Gym Demo
+- Added 'Title tag' options in "Restaurant Menu List" shortcode in 'Qode Restaurant Plugin'
+- Updated Qode Restaurant plugin to 1.0.3
+
+14.1
+- Added Wristwatch Shop Demo
+- Added Gift Shop Demo
+- Added Language School Demo
+- Added Floristry Demo
+- Added Bicycle Shop Demo
+- Added Asian Cuisine Demo
+- Added Jazz Club Demo
+- Added Animal Shelter Demo
+- Added Musician Demo
+- Added Ecology Demo
+- Added 'Horizontal Timeline' shortcode
+- Improved translation of WooCommerce and theme labels
+- Updated Bridge bridge.pot file
+
+14.0
+- Added Film Director Demo
+- Added Tech Support Demo
+- Added Kindergarten Demo
+- Added Tailor Demo
+- Added Sushi Bar Demo
+- Added Jewelry Store Demo
+- Added Web Hosting Demo
+- Added University III Demo
+- Added Tattoo Studio Demo
+- Added vCard Demo
+- Added option to disable hover zoom animation for 'Team - Main Info and Description Below Image'
+- Added 'Qode Split Scrolling Section' shortcode
+- Updated Revolution Slider to 5.4.7.2
+- Fixed appearance of the 'Tabs on bottom' single product type when Upsells are enabled
+- Fixed link for the comments in 'Latest Posts' shortcode
+
+13.9
+- Added Makeup Artist Demo
+- Added Gaming Demo
+- Added Photographer Portfolio Demo
+- Added Golf Demo
+- Added Laundry Service Demo
+- Added Tiles Demo
+- Added Handicraft Demo
+- Added Casino Demo
+- Added Airline Demo
+- Added Craft Beer Bar Demo
+- Added option to set background image for Full Screen Menu in Qode Options -> Header -> Full Screen Menu
+- Added 'Custom Icon' option in 'Image With Icon and Text' shortcode
+- Updated Timetable Responsive Schedule For WordPress to 5.3
+- Updated Envato Market to 2.0.0
+
+13.8
+- Added Law Office Demo
+- Added Software Development Demo
+- Added Gym Demo
+- Added border and size options for 'Video Box' shortcode in Qode Options -> Elements -> Video Box
+- Updated Layer Slider to 6.7.1
+- Updated Visual Composer to 5.4.7
+
+13.7
+- Added IT conference Demo
+- Added 3D Modeling Demo
+- Added Horse Riding Demo
+- Added Barbershop Demo
+- Added Loan Company Demo
+- Added Architectural Firm Demo
+- Added Web Studio Demo
+- Added 'Interest Rate Calculator' shortcode
+- Added option to disable zoom and hover overlay for 'Video Box' shortcode
+- Added new 'Left Side Fixed' widget area in Appearance -> Widgets
+- Improved Layer Slider import with Qode Import
+
+13.6
+- Added Candidate Demo
+- Added Wildlife Demo
+- Added NGO Demo
+- Added Explorer Demo
+- Added Psychotherapy Demo
+- Added Recipes Demo
+- Added Nutritionist Demo
+- Added Bike Rental Demo
+- Added Dental Clinic Demo
+- Added new 'Image on the left - boxed' type in 'Latest Posts' shortcode
+- Added option for Sticky Mobile Header in Qode Options -> Header
+- Added new 'Main Info and Description Below Image' type for 'Team' shortcode
+- Added bridge.pot file for creating .po and .mo files
+- Improved password form layout for password protected page/post
+- Updated wpml-config.xml file
+- Updated Layer Slider to 6.7.0
+- Updated Revolution Slider to 5.4.7.1
+- Updated pot file for Qode Listing plugin
+- Updated Qode Listing plugin to 1.0.3
+- Updated pot file for Qode Memebership plugin
+- Updated Qode Membership plugin to 1.0.1
+- Fixed title image appearing in responsive if 'Don't Show Background Image' option is set per page
+- Fixed the 'Set Footer Columns To Be One By One on Tablet Portrait' option from Qode Options -> Footer not applying properly when 3 Columns Footer Top with uneven proportions is set
+
+13.5
+- Added Laboratory Demo
+- Added Business Consulting Demo
+- Added Fitness Demo
+- Added Interior Decor Demo
+- Added Pottery Demo
+- Added Gardening Demo
+- Added Human Resources Demo
+- Added Wedding Invitation Card Demo
+- Added options to style border for 'Interactive Icon Showcase' shortcode
+- Added Background Size option for 'Elements Holder Item' shortcode
+- Added Woocommerce 3.3.1 compatibility
+- Added option to choose Dripicons icon pack for WooCommerce Dropdown Cart icon in Qode Options -> WooCommerce -> Dropdown Cart
+
+13.4
+- Added Movie Demo
+- Added Optician Demo
+- Added Italian Restaurant Demo
+- Added Temple Demo
+- Added Wedding Invitation Demo
+- Added Hi-Fi Demo
+- Added Tea Demo
+- Added Renewable Energy Demo
+- Added Title Tag option for Testimonials Carousel
+- Updated Google Fonts
+- Improved responsiveness for 'Advanced Image Gallery' shortcode
+- Fixed bug with Select2 js plugin when Woocommerce is not installed
+- Fixed content alignment not applying when Vertically Align Content option is enabled for left menu area in Qode Options -> Header
+
+13.3
+- Added Art Gallery Demo
+- Added Medical Demo
+- Added Recording Studio Demo
+- Added Mountain Biking Demo
+- Added Agriculture Demo
+- Added Coworking Space Demo
+- Added Bar Demo
+- Added Startup Company Demo
+- Added Frozen Yogurt Demo
+- Added Video Production Demo
+- Added Soap Demo
+- Added Background and Text color options for 'Info Card' shortcode
+- Added Title on Bottom Hover Animation for 'Single Image' shortcode
+- Added 'Vertical Separator' shortcode
+- Added link option for 'Animated Icon with Text'
+- Added option to disable/enable Footer Top and Footer Bottom per page
+- Added 4 columns option for 'Testimonials Carousel' shortcode
+- Updated Qode News plugin to 1.0.3
+- Improved Add To Cart functionlity and responsive background colors ordering for 'Product List - Elegant' Shortcode
+- Updated Layer Slider to 6.6.8
+- Updated Revolution Slider to 5.4.6.6
+- Fixed posts showing on date archive page when News Plugin is activated
+- Fixed animations for Blog Gallery page template with Load More pagination
+- Fixed audio player appearance when used as Audio widget
+
+13.2
+- Added Technology Demo
+- Added Pole Dance Demo
+- Added Nightclub Demo
+- Added Running Demo
+- Added Orchestra Demo
+- Added Factory Demo
+- Added Writer Demo
+- Added Museum Demo
+- Added new 'Product List' shortcode
+- Added Yith Quick View support for Woocommerce
+- Added Yith Wishlist support for Woocommerce
+- Added 'Qode Woocommerce Wishlist' widget
+- Added Elegant, Linea and Dripicon Icon pack for 'Progress Bar Icons' shortcode
+- Added Elegant, Linea and Dripicon Icon pack for 'Image With Text Over' shortcode
+- Added Elegant, Linea and Dripicon Icon pack for 'Service Table' shortcode
+- Added two new frames for Image Gallery slider shortcode
+- Added loop functionality for Horizontal Marquee shortcode
+- Added appear effect option for Horizontal Marquee shortcode
+- Added 'Simple Quote' shortcode
+- Added option for background hover effect for 'Icon With Text' shortcode
+- Added Letter Spacing and Text Transform options for page subtitle in Qode Options -> Fonts
+- Added Featured Icon Option for menu items
+- Updated Layer Slider to 6.6.7
+- Fixed 'Fullscreen Menu Button' size change
+
+13.1.2
+- Fixed bug for 'Fullscreen Menu' opening
+- Fixed 'white space' bug below footer when 'Passepartout' option is enabled
+
+13.1.1
+- Fixed bug for content top margin creation
+
+13.1
+- Added Florist Demo
+- Added Designer Expo Demo
+- Added Music Festival Demo
+- Added Moving Company Demo
+- Added Burger Place Demo
+- Added Urban Dance Demo
+- Added Vineyard Demo
+- Added showing list of required plugins for selected demo in 'Qode Import' section
+- Added 'Enable Full Width Menu for Wide Dropdown Type' option in 'Header -> Menus' section
+- Added Grid Lines in Page Background option
+- Added Enable Default WooCommerce Product Gallery Features option in Qode Options -> WooCommerce
+- Added advanced hover effects for Qode Clients shortcode
+- Added Design options for Qode Button and Qode Button V2 shortcode
+- Added title and subtitle tag options for each row of Report Sheet shortcode
+- Added 'Enable Type Out Effect', 'Position of Type Out Effect', 'Typed Color', 'Typed Endings' options to 'Custom Font Shortcode'
+- Added option to set background color of inactive Interactive Icon Showcase Item
+- Updated Qode Listing plugin to 1.0.2
+- Updated Qode Instagram plugin to 1.2.1
+- Updated Qode Restaurant plugin to 1.0.2
+- Updated Layer Slider to 6.6.5
+- Updated Visual Composer to 5.4.5
+- Updated Revolution Slider to 5.4.6.4
+- Improved breadcrumbs function for WooCommerce single pages
+- Replaced Envato Wordpress Toolkit with Envato Market plugin
+- Fixed loading scripts problem for 'Reservation Form' shortcode in Qode Restaurant plugin
+- Fixed amenities problem for 'Listing Type' taxonomy in Qode Listing plugin
+- Fixed layout for 'Wide Gallery' product type
+- Fixed padding and border color not appling when background image set for Call To Action
+
+13.0
+- Added App Launch Demo
+- Added App Presentation Demo
+- Added Winter Sports Demo
+- Added Smoothie Bar Demo
+- Added Yoga Center Demo
+- Added Beer Showcase Demo
+- Added Plumber Demo
+- Added Hair Salon Demo
+- Added Freelancer Demo
+- Added Bakery Demo
+- Added Running Club Demo
+- Added Beauty Center Demo
+- Added SEO Company Demo
+- Added Babysitter Demo
+- Added Wedding Planner Demo
+- Added 'Multi-Device Showcase' shortcode
+- Added 'Advanced Image Gallery' shortcode
+- Added 'Advanced Pricing List' shortcode
+- Added Background gradient option for Button shortcode
+- Added Background gradient option for Button V2 shortcode
+- Added Background gradient option for active background for Progress Bar - Horizontal shortcode
+- Added Background gradient option for Icon With Text icon
+- Added Custom Css Class entry for Elements Holder and Elements Holder Item
+- Added option for Page Background Image
+- Added Snazzy Map option for Qode Google Map shortcode
+- Added z-index option for row
+- Added Horizontal Alignment option for Elements Holder Item
+- Added options for Testimonial Carousel style in Qode Options -> Elements
+- Added Advanced Footer Top Responsiveness in Qode Options -> Footer
+- Added style options for Bullet Navigation for Preview Slider, Content Slider, Advanced Image Gallery and Testimonial Carousel in Qode Options -> Elements -> Slider Navigation Interface
+- Added style options for Breadcrumbs in Qode Options -> Fonts
+- Added option to choose icon pack and icon for 'Back to Top' in  Qode Options -> Elements -> Back to Top
+- Updated Layer Slider to 6.6.5
+- Updated Visual Composer to 5.4.5
+- Updated Revolution Slider to 5.4.6.4
+- Updated Qode News plugin to 1.0.2
+- Fixed like/dislike text on single news item in Qode News plugin
+
+12.1.1
+- Updated Layer Slider to 6.6.2
+- Updated Visual Composer to 5.4.4
+- Updated Revolution Slider to 5.4.6.3.1
+
+12.1
+– Added Business Report Demo
+– Added Business Conference Demo
+– Added Global Business Demo
+– Added Financial Business Demo
+– Added Construction Showcase Demo
+– Added Attorney Demo
+– Added Clean Energy Demo
+– Added Startup Summit Demo
+- Added Report Sheet shortcode
+- Added Line Height option for Counter element in Qode Options -> Elements ->  Counters
+- Added Play Button Color Options for Video Box shortcode in Qode Options -> Elements -> Video Box
+- Added Autoplay option for Elliptical Slider shortcode
+- Added option for only Bottom Border in Contact Form 7 Custom Styles in Qode Options -> Contact Form 7
+- Added Advanced Responsive Breakpoint option for Split Slider in Qode Options -> Vertical Split Slider
+- Added Title Tag option for Qode Pricing Table
+- Added option for Full Width Button for Contact Form 7 Custom Styles in Qode Options -> Cotact Form 7
+- Added Text Transform option for Full Screen Menu in Qode Options -> Header
+- Added additional column proportions options for two and three columns Elements Holder shortcode
+- Improved translation of WooCommerce labels
+- Updated Layer Slider to 6.6.1
+- Fixed Border Transparency of Contact Form 7 Form Elements for Custom Style 2 and Custom Style 3
+
+12.0.1
+- Updated Qode Listing plugin to 1.0.1
+- Improved VC Interface for custom shortcodes
+- Fixed listing plugin functionality for PHP 7.1.+ version
+
+12.0
+- Added Bridge City Listing Demo
+- Added Bridge Music Magazine Demo
+- Added Bridge Restaurant and Bar Demo
+- Added 'Qode Listing' plugin
+- Added 'Qode News' plugin
+- Added 'Qode Restaurant' plugin
+- Added 'Qode Membership' plugin
+- Added 'WP Job Manager' plugin compatibility
+- Added 'Qode Listing Advanced Search' shortcode
+- Added 'Qode Listing Banner' shortcode
+- Added 'Qode Listing Blog List' shortcode
+- Added 'Qode Listing Categories' shortcode
+- Added 'Qode Listing List' shortcode
+- Added 'Qode Listing Packages' shortcode
+- Added 'Qode Listing Project Info' shortcode
+- Added 'Qode Listing Regions' shortcode
+- Added 'Qode Listing Search' shortcode
+- Added 'Qode Listing Simple Search' shortcode
+- Added 'Qode Listing Slider' shortcode
+- Added 'Qode Listing Testimonials' shortcode
+- Added three News Layout shortcodes
+- Added News 'Post Carousel' shortcode
+- Added News 'Post Slider' shortcode
+- Added two News Video Layout shortcodes
+- Added 'Restaurant Menu List' shortcode
+- Added 'Reservation Form' shortcode
+- Added 'Restaurant Timeline' shortcode
+- Added 'Working Hours' shortcode
+- Added 'Qode Blog Categories/Reaction' widget
+- Added three News Layout widgets
+- Added 'Qode Listing' widget
+- Added 'Qode Login' widget
+- Added 'Qode Video Layout' widget
+- Added 'Text alignment' option in 'Icon With Text' shortcode
+- Added 'Enable Button Shadow' option in 'Button' shortcode
+- Added font size, line height and padding options in  Qode Options -> Elements -> Button V2
+- Added options to show image on Audio post in Qode Options -> Blog
+- Added Dripicon Icon pack
+- Added Performance Improvement functionality for multisite
+- Added Woocommerce 3.2.0 compatibility
+- Updated Visual Composer to 5.4.2
+- Updated Layer Slider to 6.6.0
+- Updated Revolution Slider to 5.4.6.2
+
+11.2
+- Added Woocommerce 3.1.1 compatibility
+- Added Scrolling Image shortcode
+- Updated Layer Slider to 6.5.5
+- Updated Visual Composer to 5.2.1
+- Fixed potential XSS problem
+- Fixed problem with product names in grouped product
+- Fixed problem with 'Qode Left Menu Area' meta fields
+
+11.1
+- Added Woocommerce 3.0.8 compatibility
+- Updated Layer Slider to 6.5.1
+- Updated Revolution Slider to 5.4.5.1
+- Fixed category field in 'Blog Carousel - Titled' shortcode
+- Fixed import functionality for php 7 version
+- Fixed link in 'Qode Item Showcase List Item' shortcode
+
+11.0
+- Added Bridge Church Demo
+- Added Bridge Life Coach Demo
+- Added Bridge Crossfit Demo
+- Added Bridge Mosque Demo
+- Added Bridge Pet Sanctuary Demo
+- Added Bridge Car Dealership Demo
+- Added Bridge Business Consultant Demo
+- Added Bridge University II Demo
+- Added Bridge Dentist Demo
+- Added Bridge Transport Demo
+- Added Bridge Football Demo
+- Added Bridge Vacation Rental Demo
+- Added Bridge UI Design Company Demo
+- Added 'Advanced Call To Action' shortcode
+- Added 'Blog Carousel - Titled' shortcode
+- Added 'Advanced Tabs' shortcode
+- Added 'Comparative Features Table' shortcode
+- Added 'Specification List' shortcode
+- Added 'Pricing Calculator' shortcode
+- Added 'Elliptical Slider' shortcode
+- Added 'Info Card With Icon' shortcode
+- Added 'Info Card' shortcode
+- Added 'Image With Icon and Text' shortcode
+- Added 'Sliding Image Holder' shortcode
+- Added 'Numbered Process' shortcode
+- Added 'Qode Accordion' shortcode
+- Added 'Interactive Icon Showcase' shortcode
+- Added 'Workflow' shortcode
+- Added Enable Separator Gradient Color in Qode Options -> Title and on each page
+- Added Separator Gradient option in Latest Post 2 shortcode
+- Added Border Radius, Icon Background Color, Icon Background Hover Color, Icon Font Size, Enable Icon Square and Icon Rotate hover options for 'Button V2' shortcode
+- Added 'Page Loading Effect' option in Qode Options -> General
+- Added 'Background Color' option for 'Loading Animation' in Qode Options -> General
+- Added 'Inter-Page Navigation' options in Qode Options -> Page and in meta box Qode Page Options
+- Added 'Element Appearance' options in Pie Chart, Pie Chart 2, Progress Bar - Icon, Counter shortcode
+- Added Button Type option in Qode Slide
+- Added 'Disconnect from Instagram' button to Qode Options -> Social
+- Added Woocommerce 3.0.x compatibility
+- Updated Visual Composer to 5.1.1
+- Updated Revolution Slider to 5.4.3.1
+- Updated Layer Slider to 6.3.0
+- Updated Google Fonts
+- Updated FontAwesome Icons Pack to 4.7
+- Updated Qode Twitter Feed to 1.1
+- Updated Qode Instagram widget to 1.2
+- Updated reCaptcha on version 2.0
+- Updated wpml-config.xml file. Included shortcodes params
+- Updated third party JS scripts
+- Improved Qode Import
+- Improved Contact Page Template
+- Improved Text Marquee shortcode
+- Improved Button V2 shortcode
+- Fixed showing of prettyPhoto navigation on 'Single Image' shortcode
+- Fixed problem WPML language switcher in header when page transitions are enabled
+- Fixed problem with 'Qode Twitter Feed' shortcode and SSL protocol
+- Fixed Call To Action Section link
+- Fixed problem with Layer Slider and 'Testimonials Carousel' shortcode
+- Fixed glittering of Sticky Header when Passepartout is enabled
+
+10.1.2
+- Updated Visual Composer to 5.1
+- Updated Revolution Slider to 5.4.1
+- Updated Layer Slider to 6.1.6
+
+10.1.1
+- Updated Revolution Slider to 5.3.1
+- Updated Layer Slider to 6.0.6
+- Fixed the issue with Qode Slider on latest Chrome versions
+
+10.1
+- Updated Visual Composer to 5.0.1
+- Updated Revolution Slider to 5.3.0.2
+- Updated Layer Slider to 6.0.5
+
+10.0
+- Added Revolution slider
+- Added Bridge Sportswear Demo
+- Added Bridge Interior Decoration Demo
+- Added Bridge Boutique Demo
+- Added Bridge Summer Shop Demo
+- Added Bridge Furniture Shop Demo
+- Added Bridge Leather Shop Demo
+- Added Bridge Minimal Shop Demo
+- Added Bridge Tiled Shop Demo
+- Added Bridge Digital Startup Demo
+- Added Bridge Skater Demo
+- Added Bridge Bicycle Brand Demo
+- Added Bridge Fashion Agency Demo
+- Added Bridge Biker Club Demo
+- Added Bridge Artist Portfolio Demo
+- Added Bridge Hipster Agency Demo
+- Added Bridge Barber Demo
+- Added Bridge Photo Gallery Demo
+- Added Bridge Skate Shop Demo
+- Added Bridge Outdoors Demo
+- Added Bridge Jazz Bar Demo
+- Added Bridge Hosting Demo
+- Added Bridge Architect Studio Demo
+- Added Bridge Child Care Demo
+- Added Bridge Startup Demo
+- Added Bridge Resume Demo
+- Added Bridge Law Firm Demo
+- Added Bridge Organic Market Demo
+- Added Bridge Watch Store Demo
+- Added Bridge Travel Agency Demo
+- Added Bridge Consulting Demo
+- Added Bridge Yoga Studio Demo
+- Added Bridge Spa Center Demo
+- Added Bridge Modern Furniture Demo
+- Added 'Text Marquee' shortcode
+- Added 'Call To Action Section' shortcode
+- Added 'Crossfade Images' shortcode
+- Added 'Expanding Images' shortcode
+- Added 'Item Showcase' shortcode
+- Added 'Button V2' shortcode
+- Added 'Banner' shortcode
+- Added 'Cards Slider' shortcode
+- Added 'Cards Gallery' shortcode
+- Added 'Gradinet Icon With Text' shortcode
+- Added Justify control navigation option for 'Content Slider' shortcode
+- Added 'Image Shader Hover Color' in 'Image With Text Over' shortcode
+- Added 'Text Above Title' option on pages
+- Added 'Text Above Title Color' option pages
+- Added 'Page Text Above Title' font options in Qode Options -> Fonts
+- Added 'Tabs on Bottom' single product type
+- Added 'Wide Gallery' single product type
+- Added Color, Hover Color, Active Color, Line Height, Text Transform, Font Family, Font Style, Letter Spacing in Qode Options -> Elements for Tabs
+- Added Title Tag for Releted and Upsells sections on product single
+- Added new responsive stage in 'Elements Holder Item' shortcode
+- Added Linea Icon pack for 'Icon List Item' shortcode
+- Added Elegant Icon pack for 'Icon List Item' shortcode
+- Added font size option for 'Icon List Item' shortcode
+- Added 'Title Font Weight' option for 'Icon List Item' shortcode
+- Added Show Separator option for Product List - Masonry shortcode
+- Added support for Widgetised Column
+- Added 'Vertically Center Content' option in header > Left Menu Area section
+- Added new transitions between slides in Qode Slider
+- Added gradient color option on 'Separator' shortcode
+- Added icon option for buttons in Qode Slider
+- Added 'Enable Number of Items in Filter' option for 'Portfolio List' shortcode
+- Updated FontAwesome Icons Pack to 4.6.3
+- Improved Shop Single responsiveness
+- Improved Portfolio List with space responsiveness
+- Fixed problem with 'active' class on mobile menu when ajax transition is enabled
+- Fixed problem with 'Product List - Masonry' and page transitions
+- Fixed Left Menu responsive with 1200 and 1300 grid widths
+- Fixed Justified Portfolio List global color changing
+- Fixed rendering for Shop Title Hover Color option
+- Fixed Content Bottom Area showing on Shop pages
+- Fixed anchor active state on mobile menu
+- Fixed Tags style through options
+- Fixed Contact Form without space responsive
+- Fixed Tabs hover color
+- Fixed Testimonials Carousel Navigation Style option
+- Fixed search when on Woocommerce page
+- Fixed Border Color option for 'Icon List Item' shortcode
+- Fixed social icons widget color in sticky menu when light/dark menu is enabled
+- Fixed sticky widget positioning with Fixed Header and Header Top
+- Fixed search placeholder color in Mozilla Firefox
+- Fixed Margin After Title on mobile devices
+- Fixed prettyPhoto problem with hash(#) in Image Gallery and Single Image
+
+9.5
+- Added Import/Export Options in Qode Options
+- Added Google Maps API key in Qode Options -> General
+- Updated Layer Slider to 5.6.9
+- Updated TGM Plugin Activation to 2.6.1
+- Fixed "Menus" anchor problem in Qode Options -> Header
+- Fixed z-index problem with Fullscreen Seacrh  when 'Fix Top Passepartout' is enabled
+- Fixed 'Title Tag' option in 'Pricing List' shortcode
+- Fixed problem with close icon on 'Search Cover Header' when header is not in grid
+- Fixed problem with itemprop="headings" in google structured data
+- Fixed problem with Blog Masonry Sgortcode when sidebar is enabled
+- Fixed right position option in 'Separator' shortcode
+
+9.4.2
+- Fixed problem with 'Portfolio masonry with space' and 'Portfolio masonry without space'
+- Fixed security issue with contact form
+
+9.4.1
+- Improved parallax functionality when 'Testimonials Carousel' shortcode is on the same page
+- Fixed Woocommerce 2.6.1 template version
+
+9.4
+- Added Woocommerce 2.6.0 compatibility
+- Updated Layer Slider to 5.6.8
+- Fixed 'Category Slug' option in 'Product List - Elegant' shortcode
+- Fixed 'Category Slug' option in 'Product List - Masonry' shortcode
+
+9.3
+- Added Bridge Photography Parallax Demo
+- Added Bridge Bauhaus Demo
+- Added Bridge Illustrator Demo
+- Added Bridge Maintenance Mode Demo
+- Added Bridge Agency Minimal Demo
+- Added Bridge Conference Demo
+- Added Bridge 3D Artist Demo
+- Added Bridge Developer Demo
+- Added Bridge Web Agency Demo
+- Added Bridge UX/UI Design Demo
+- Added Bridge Digital Demo
+- Added Bridge Product Showcase Demo
+- Added 'Qode Twitter Feed' plugin with widget and shortcode
+- Added Linea Icon pack for 'Button' shortcode
+- Added Elegant Icon pack for 'Button' shortcode
+- Added columns proportions for two columns in Elements Holder shortocode
+- Renamed 'Masonry With Space' to 'Masonry(Pinterest) with space' option in portfolio type
+- Renamed 'Masonry With Space (image only)' to 'Masonry(Pinterest) with space (image only)' option in portfolio type
+- Added new 'Masonry With Space' option in portfolio type
+- Added 'Show Badge' field in portfolio
+- Added 'Badge Text' field in portfolio
+- Added Instagram Widget Light and Dark hovers through widget options
+- Supported 'Sidebar Responsiveness for Tablet Devices (Portrait View)' option on single portfolio templates
+- Updated Visual Composer to 4.12
+- Fixed problem with active state in menu on load on page with anchors
+- Fixed option to show "custom widget area" in menu as popup (only for 'wide' menu types)
+- Fixed option to show "custom widget area" in menu as popup (only for 'wide' menu types)
+- Fixed problem with my account page in Woocommerce
+
+9.2
+- Added Bridge Metro Blog Demo
+- Added Bridge Nature Blog Demo
+- Added Bridge Modern Blog Demo
+- Added Bridge Creative Blog Demo
+- Added Bridge Minimal Blog Demo
+- Added Bridge Fashion Blog Demo
+- Added Bridge Lifestyle Blog Demo
+- Added Bridge Chequered Blog Demo
+- Added Bridge Headlines Blog Demo
+- Added Bridge Tech Blog
+- Added 'Blog Masonry Gallery' blog template
+- Added 'Blog Compound' blog template
+- Added 'Blog Pinterest' blog template
+- Added 'Blog Headlines' blog template
+- Added 'Blog Gallery' blog template
+- Added 'Blog Chequered' blog template
+- Added 'Image Title Post' single blog template
+- Added 'Qode Lates Posts' widget
+- Added 'Hover Type' option for 'Blog Masonry Date in Image' template
+- Added 'Qode Content Slider' shortcode
+- Added Qode Options > Blog > Pagination option set
+- Added Google Structured Data classes
+- Added 'auto start' option to Blog Slider shortcode
+- Added 'Sticky Sidebar Widget' functionality
+- Added 'Uniform Site Background' functionality
+- Added Qode Options -> Header -> Mobile Menu -> Mobile Header Top Background Color option
+- Added Image size option for Latest Posts 2 shortcode
+- Updated Layer Slider to 5.6.7
+- Updated Google Fonts list
+- Updated wpml-config.xml
+- Improved SEO with schema.org coding guidelines
+- Improved product list responsiveness
+- Fixed 'Testimonials Masonry' shortcode layout when it is 'in grid' sections
+- Fixed potential security issue when saving theme options
+- Fixed menu appearance in 'admin > appearance > menus'
+- Fixed problem with fonts when native font is chosen for slider title, subtitle or text
+- Fixed bug with removing custom widget area
+
+9.1.3
+- Updated Visual Composer to 4.11.2.1
+- Fixed bug with tabs and accordions shortcode due to WP 4.5 update
+
+9.1.2
+- Updated Visual Composer to 4.11.2
+- Updated Layer Slider to 5.6.4
+- Fixed ajax page transitions error
+
+9.1.1
+- Fixed WordPress 4.5 javascript error
+
+9.1
+- Added New Landing Page Demo
+- Added Bridge Clothing Store Demo
+- Added Bridge Urban Studio Demo
+- Added Bridge Masonry Shop Demo
+- Added Bridge Fullscreen Shop Demo
+- Added Bridge Photographer Demo
+- Added Bridge Designer Portfolio Demo
+- Added Bridge Tech Showcase Demo
+- Added 'Product List - Masonry' shortcode
+- Added 'Qode In-Device Slider' shortcode
+- Added 'Additional Google Fonts' option to Qode Options > General
+- Added 'Filter Order By' filed in 'Portfolio List' shortcode
+- Added functionality to link to filtered portfolio list based on url hash
+- Added 'Show Categories Above Title' option in Qode Options > Woocommerce > Product List section
+- Added 'One Column' porfolio layout
+- Added color option for close fullscreen menu button in Qode Options > Header > Fullscreen Menu
+- Added 'Direction Navigation', 'Control Navigation' and 'Pause On Hover' options to Image Gallery shortcode
+- Added 'Show Orderby Dropdown' option to Qode Options > Woocommerce > Product List section
+- Fixed 'Uncovering Footer' option
+- Fixed notices with certain header types
+- Fixed footer click ability when Passepartout (with no fixed bottom passepartout) is enabled
+- Fixed categories rendering for portfolio related projects
+- Fixed icon margin filed for 'Social Icons' shortcode
+- Fixed facebook social share popup
+
+9.0
+- Added Bridge App Showcase Demo
+- Added Bridge Creative Agency Demo
+- Added Bridge Construction Company Demo
+- Added Bridge Modern Restaurant Demo
+- Added Bridge Wedding Announcement Demo
+- Added Bridge Online Agency Demo
+- Added Bridge Rock Band Demo
+- Added Bridge Craftsman Demo
+- Added Bridge Corporation Demo
+- Added Bridge Modern Photography Demo
+- Added Bridge Illustrator Portfolio Demo
+- Added Bridge Urban Store Demo
+- Added Bridge Vibrant Portfolio Demo
+- Added Bridge Photography Tiles Demo
+- Added Bridge Freelance Designer Demo
+- Added 'Related portfolios' option to 'Portfolio' post type
+- Added 'Image Proportion' option for Related Portfolio Items in Qode Options > Portfolio > Portfolio Single Project
+- Added 'Portfolio Big Slider - Modern' single portfolio template
+- Added 'Show title on navigation' to Qode Options > Portfolio > Portfolio Single Project
+- Added 'Initial Width of Content' changer to Qode Options
+- Added 'Full screen height' option to parallax row type
+- Added Linea Icon pack for icon with text shortcode
+- Added Linea Icon pack for icon shortcode
+- Added Video Box shortcode
+- Added 'Show share icon' option to 'Socal share shortcode'
+- Added 'Number of items per slide' option to Testimonials shortcode
+- Added 'print.css' file
+- Added 'separator' option to 'Icon With Text' shortcode
+- Added 'Padding' option to Qode Options > Header > Header Top
+- Added 'Set Menu Icon Layout' option for Fullscreen Menu in Qode Options > Header > Fullscreen Menu
+- Added 'Simple Type' option for Call To Action shortcode
+- Added 'Responsive Typography' options for Headings and Text on Tablet and Mobile devices in Qode Options > Fonts
+- Added 'Border Width' option for Icon shortcode
+- Added 'Product List - Elegant' shortcode
+- Added 'First Background Color' option for Product List - Elegant in Qode Options > WooCommerce > Product List - Elegant
+- Added 'Second Background Color' option for Product List - Elegant in Qode Options > WooCommerce > Product List - Elegant
+- Added 'Category Text' style options for Product List - Elegant in Qode Options > WooCommerce > Product List - Elegant
+- Added 'Disable Project Title Label' option to Qode Options > Portfolio > Portfolio Single Project
+- Added 'Instagram Widget' plugin and options for it in Qode Options > Social
+- Added 'Hide Top Bar on Mobile Header' option to Qode Options > Header > Header Top
+- Added 'Set Footer Columns To Be One By One on Tablet Portrait' to Qode Options > Footer > Footer Top
+- Added 'Letter Spacing' options to Qode Options > Title > Page Title > For all types
+- Added 'Text Margin' option for Title Text to Qode Options > Title
+- Added 'Grayscale' option for Hover Animation Type in Portfolio List shortcode
+- Added 'Width & Responsiveness' tab for Elements Holder Inner shortcode (now padding can be controlled on different sizes)
+- Added 'One Column' option for Elements Holder shortcode
+- Added 'Number Of Visible Items' option for Qode Carousel shortcode
+- Added 'Qode Social Icon' widget
+- Added 'Vertically Align Content to Middle' functionality to Qode Slider
+- Added 'Fullscreen Menu Area' widget
+- Added 'Enable Pagination Through Same Category' to Qode Options > Portfolio > Portfolio Single
+- Added 'Latest Posts 2' shortcode
+- Added 'Justified Gallery' type for Portfolio List shortcode
+- Added 'Align Footer With Passepartout' option to Qode Options > General > Passepartout section
+- Added 'Sidebar Responsiveness for Table Devices (Portrait View)' option in Qode Options > General
+- Added 'Show Underline Dash on Active/Hover Items' option for 1st level menu item in Qode Options > Fonts
+- Added 'Clickable Left/Right Area Size (%)' in Qode Options > Elements > Slider navigation interface > Qode Slider section
+- Added 'Cart Icon Type' in Qode Options > Woocommerce > Dropdown Cart
+- Added Fullscreen Menu overlay animation options to Qode Options > Header > Fullscreen Menu
+- Added 'Slide Up' portfolio hover type
+- Added 'Frame' option to portfolio list shortcode
+- Added 'Animate Header' option
+- Added 'Hover Animation' option for Single Image shortcode
+- Added 'Testimonials Masonry' shortcode
+- Updated Visual Composer to 4.11.1
+- Updated FontAwesome Icons Pack to 4.5.0
+- Updated po/mo files
+- Improved Expandable Row shortcode
+- Improved Blog Masonry shortcode responsiveness
+- Improved responsiveness for boxed layout with initially hidden Left Menu
+- Fixed deprecated class constructors
+- Fixed Counter shortcode border-color changing for boxed type
+- Fixed 'Call To Action' font options setup
+- Fixed margin global options for small separator shortcode
+- Fixed option to disable border for Icon shortcode (square and circle type)
+- Fixed Icon shortcode custom styles when Icon shortcode is added in Footer area
+- Fixed Call To Action width issue when call to action is set in grid and template is default
+- Fixed Call To Action button issue when button text is not set
+- Fixed 'advanced responsiveness' for Qode Slider
+- Fixed arrow navigation style options in Qode Options > Elements > Slider Navigation Interface > Flex Sliders, for Lightbox
+- Fixed arrow navigation style options in Qode Options > Elements > Slider Navigation Interface > Qode Slider, when Left Menu is enabled
+- Fixed Qode Search icon and close icon style options
+- Fixed Qode Slider button padding responsiveness
+- Fixed Elements Holder empty space on the bottom
+- Fixed Team shortcode image alt
+- Fixed Breadcrumbs text domain
+- Fixed Gallery Image custom links
+- Fixed Pie Chart responsivnes when Left Menu is enabled
+- Fixed 'Go To Project' translation
+- Fixed Masonry Gallery Big Square type resize for smaller screens
+- Fixed Self Hosted Video height issue
+- Fixed portfolio filter height issue when you clicked on filter holder
+- Fixed portfolio single sidebar issue when Sidebar Layout is Default
+- Fixed portfolio list lightbox when filter is actived to show images from current category
+- Fixed is_shop notice
+- Fixed portfolio filter center alignment for mobile devices
+- Fixed social icons initial color for light/dark header
+
+8.0
+- Added Woocommerce 2.5.0 compatibility
+- Added demos numeration in Qode Import
+- Updated Visual Composer to 4.9.2
+
+7.9
+- Added Woocommerce 2.4.12 compatibility
+- Updated Visual Composer to 4.9.1
+- Fixed issue with email and url fields in comment form
+- Fixed back button issue on Chrome with vimeo and youtube videos on blog lists
+- Fixed bug with Content Bottom Area and ajax page transitions on single post pages
+- Fixed 'Slide From Header Bottom' search type on touch devices
+- Fixed rendering of Qode Seo words when Qode Seo is disabled
+- Fixed share on mobile devices (Facebook and Twitter)
+- Fixed Google Map Warning for Sensor parameter no longer being required
+- Fixed bug with Line Graph element not showing on site
+- Fixed issue with Contact form not correctly delivering messages with special characters
+- Fixed bug with horizontal alignment of icon inside Icon With Text element
+
+7.8
+- Added Woocommerce 2.4.10 compatibility
+- Updated Visual Composer to 4.8.1
+- Fixed issue with conflict between datepicker and 3rd party plugins
+- Fixed Qode Image Slider navigation alignment issue
+- Fixed bug with Image Hover overflowing in Mozilla Firefox
+- Fixed issue with Footer Bottom Links color style
+- Fixed issue with Qode Image Slider links on touch devices
+- Fixed Lightbox for Videos bug in Single Portfolio
+- Fixed issue with Masonry With Space (Image Only) missing column numbers
+- Fixed images hover state bug in Image Gallery element
+- Fixed issue with Custom Font not saving font-weight propery
+- Fixed issue with Blockquote element now displaying default blockquote text
+
+7.7
+- Updated Visual Composer to 4.7.4
+- Updated Layer Slider to 5.6.2
+- Fixed issue with VC Button when VC Grid Elements are enabled
+- Fixed bug with Font Awesome icon list
+- Fixed Countdown bug with saving values
+- Fixed Menu Anchors scroll for Fixed Header Top menu type
+- Fixed bug with Portfolio List Columns option - 2
+- Fixed bug with Pie Chart 2 and 3
+- Fixed issue with Empty Space shortcode
+
+7.6.2
+- Fixed margin on Gallery (with space) shortcode with two columns
+- Fixed bug with VC Column Text shortcode and old version of Visual Composer
+
+7.6.1
+- Fixed bug with Bridge version 7.6 and old version of Visual Composer
+- Fixed bug with VC Empty Space shortcode
+
+7.6
+- Added Woocommerce 2.4.4 compatibility
+- Added option for advanced responsive for Vertical Split Slider
+- Updated Visual Composer to 4.6.2
+- Updated Layer Slider to 5.5.1
+- Updated Font Awesome to version 4.4.0
+- Updater rtl.css (Right-to-Left Language Support)
+- Fixed search icon color and size in search bar for Search Slide From Window Top
+- Fixed label for Blog - Hide Comments option
+- Fixed bug with title options in single product pages
+- Fixed Qode Slider zoom animations for different browsers
+- Fixed typo in Portfolio List
+- Fixed bug with WPML language switcher and mobile menu
+- Fixed bug with header style changing on scroll
+- Fixed bug with Vertical Split Slider and Countdown shortcode
+- Fixed bug with full screen section row with video background
+- Fixed bug with Load More for Masonry
+- Fixed rtl bugs with margins on menu items (Sticky Divided header type) and Latest Post shortcode
+
+7.5
+- Added Social Share List shortcode
+- Added Behance Font Awesome icon to social icon shortcode
+- Added line height option on Qode Options -> WooCommerce for titles on cart page
+- Added letter spacing option on Qode Options -> WooCommerce for titles on cart page
+- Added option for signular labels - countdown shortcode
+- Updated Visual Composer to 4.5.3
+- Updated Dutch translation files
+- Updated Google fonts
+- Updated PrettyPhoto to 3.1.6
+- Added Up/Down Button position fields for Full Screen Sections
+- Added Button Background style for Contact form Custom Style 2
+- Fixed prettyPhoto XSS
+- Fixed typo in Qode Options -> Social -> Pinterest Share Option
+- Fixed typo in Portfolio -> Qode General -> Portfolio Custom Lightbox Content
+- Fixed typo in Qode Slider -> Slide -> Qode Slide Content Positioning
+- Fixed bug with Order by option for Qode Carousel
+- Fixed header style on scroll for portfolio single and Qode Slider (when scroll up)
+- Fixed bug with position of up button for Full Screen Sections on screens smaller than 1000px
+- Fixed bug with Social Share shortcode and Visual Composer displaying it in back-end
+- Fixed bug with social icon background color when it's changed in Qode Options -> Elements page
+- Fixed bug with large height image responsiveness in portfolio masonry shortcode
+- Fixed bug with blog posts overlapping in Blog Masonry templates
+- Fixed bug with contact form email validation when email address has more that four characters for domain
+- Fixed issue with SSL protocol and embeded videos in portfolio and blog
+- Fixed bug with vertical splt slider and new version of VC
+
+7.4
+- Added WooCommerce 2.3.10 compatibility
+- Added support for placing WPML language switcher in main menu
+- Fixed conflict with icon with text custom image class and Elegant Icon font set in icon with text shortcode
+
+7.3
+- Added 4 Demos
+- Added 24 Layout Concepts
+- Added Parallax Layers shortcode
+- Added Fixed Header Top and Fixed Minimnal header types
+- Added Masonry Gallery post type
+- Added Masonry Gallery shortcode and general options
+- Added height, background, margin and hover/active color options for Portfolio Filter
+- Added background image option for Elements Holder Item
+- Added 'Overlapping content' option in Qode Options > General
+- Added padding options for contact form 7 button
+- Added icon pack option for search icon in header
+- Added icon pack and icon option for side area opener icon
+- Added icon pack and icon option for mobile menu opener icon
+- Added textarea height option for contact form 7
+- Added font style, text transform and font family for Blockquotes in Qode Options -> Blockquotes
+- Added textarea height option for contact form 7
+- Added post info position and color/font size options for Blog Slider - carousel type shortcode
+- Added new Blog template - Blog Large Image With Dividers
+- Added Passepartout option on Left Menu
+- Added 'Fixed Top Passepartout' option to Passepartout in Qode Options
+- Added side padding options for Blog Large Image Simple
+- Added icon pack option for menu items
+- Added options for post info position, excerpt and width for Blog Slider - simple type
+- Added padding and margin fileds for subtitle in 'Qode Slider' slide options
+- Added padding fileds for text in 'Qode Slider' slide options
+- Added option for space between items in Image Gallery shortcode -> Image Grid type
+- Added navigation buttons options for Full Screen Section
+- Added new Latest Post type - Boxes With Dividers
+- Added Elegant Icon option for icon with text shortcode
+- Added Elegant Icon option for social icon shortcode
+- Added Elegant Icon option for icon shortcode
+- Added right position for icon in icon with text shortcode
+- Added new Blog Masonry templates - Blog Masonry - Date in Image and Blog Masonry Full Width - Date in Image
+- Added Vertical Loop blog template and options in Qode Options -> Blog -> Vertical loop
+- Added padding options for Footer Bottom in Qode Options -> Footer
+- Added vertical aligment for elements holder items shortcode
+- Added spacing option for Portfolio List - masonry with space
+- Added functionality of header style changing on scroll (dependig on ordinary row or full screen section settings)
+- Added option for search icon color in fullscreen search form
+- Added image dimension option for posts for Blog Masonry - Date in Image template
+- Added navigation color options for Vertical Split Slider
+- Added Number of Items Showing and Hide "View" Button options for Portfolio Slider shortcode
+- Added option on row to disable side margin
+- Added text align option for Woocommerce product title and price
+- Added padding option for tags
+- Added align options for Footer Top columns
+- Added padding option for Blog Masonry Full Width templates
+- Added option for title border bottom in grid. Qode Options -> Title
+- Added border style option for tags, Qode Options -> Elements -> Tags
+- Added Margin After Title for Default Template on Touch Devices option in Qode Options -> Title
+- Added "Use Link as Anchor" option for icon shortcode
+- Added Day Style for Blog Slider - Carousel - Post Info Position - Bottom
+- Added image size option for Blog Slider - Simple
+- Added option to hide Title Area on whole website in Qode Options -> Title
+- Added centering option for loading animation
+- Added margin top option for initially hidden left menu button
+- Added padding left/right options for Footer Top
+- Added option for spacing for custom menu items in Footer Bottom
+- Added options for post info style for various Blog templates
+- Added spacing options for Blog Single
+- Added custom image size for Blog Slider shortcode
+- Added new portfolio list type masonry with space with hover text
+- Added new hover effects for portfolio list shortcode
+- Added title color option for portfolio list shortcode
+- Added title font size option for portfolio list shortcode
+- Added separator color option for portfolio list shortcode
+- Added portfolio category color option for portfolio list shortcode
+- Added option for hiding portfolio title and categories in portfolio list shortcode
+- Added option to hide title text in Qode Options -> Title
+- Added option to always put content below header in Qode Options -> General and on each page
+- Added image overlay color option for new portfolio hovers in portfolio list shortcode
+- Added font family option in Qode Options -> Portfolio for 'thin icon only' portfolio hover
+- Added style options for Sidebar widgets
+- Added alignment option for dropdown in Left Menu - Float in type
+- Added navigation position option for Full Screen Sections template
+- Added background image for Header Bottom for Fixed Header Top
+- Added option to disable navigation arrows in Qode Slider
+- Added ID option for button shortcode
+- Added padding left/right option for 1st level menu items
+- Updated Visual Composer to 4.5.2
+- Enabled Yoast SEO page analysis functionality as conflict between Yoast SEO and Visual Composer is solved in new VC version
+- Fixed bug with icon color for service table icon when first color is set
+- Fixed bug with hover color for fullscreen search icon when first color is changed in options
+- Fixed bug with search type that covers header not being fully visible when admin toolbar is enabled
+- Fixed bug with portfolio load more and loading animation
+- Fixed bug with icon shortcode hover color option when first color is changed in options
+- Fixed 'Hide on Scroll' of header top when Fixed Advanced header type is chosen
+- Fixed bug with hover color for social icons when added in footer and when footer top link colors are changed
+- Fixed bug with accordion title tag
+- Fixed bug with Passepartout and left menu responsive alignment
+
+7.2
+- Added Bridge Flat Company Demo
+- Added Bridge Photography Portfolio Demo
+- Added Bridge Charity Demo
+- Added Bridge Handmade Demo
+- Added Bridge Telecom Demo
+- Added Bridge Black-and-White Demo
+- Added Bridge Pets Demo
+- Added Bridge Designer Personal Demo
+- Added Bridge Modern Business Demo
+- Added Bridge Contemporary Company Demo
+- Added advanced responsiveness options in Qode Slider when editing slider
+- Added predefined widths for Left Menu (Initially Hidden Type)
+- Added options for Slide Subtitle and Text
+- Added option Font Size for Dropcaps shortcode
+- Added options for tags style
+- Added more options for text style in Side Menu Area
+- Added Full Width Background for Wide Dropdown Type
+- Added portfolio loading type option in Portfolio List shortcode
+- Added Image Animation option on slide background image in Qode Slider
+- Added font options for Footer Top and Bottom text and link
+- Added position option for bullet navigation
+- Added hover color options for icon shortcode
+- Added hover color options for icon with text shortcode
+- Added left/right padding option for default button
+- Added options for testimonials style
+- Added background image option for Empty Space shortcode
+- Added highlight options for Image Slider shortcode
+- Added shader color option for Image With Text Over shortcode
+- Added title font weight option for Icon With Text
+- Added option for number of columns in footer bottom
+- Added option for footer bottom in grid
+- Added option for footer top section top border
+- Added option for footer bottom section top border
+- Added padding options for footer top section
+- Added border radius options for form elements in Qode Options -> Contact Form 7
+- Added border radius options for button in Qode Options -> Contact Form 7
+- Added responsive option for Elements Holder Shortcode
+- Added alignment for responsive mode in Elements Holder Shortcode
+- Enabled breadcrumbs option when Left Menu is enabled
+- Fixed plus sign alignment for vertical menu
+- Fixed bug with padding left and right option for inner row in Visual Composer
+
+7.1
+- Added Cargo Demo
+- Added Creative Photography Demo
+- Added Construction Demo
+- Added Campaign Demo
+- Added Dim Sum Demo
+- Added slider navigation options
+- Added Content Width option for parallax
+- Added option for Logo Image for Initially Hidden Side Menu Area type
+- Added option for background color of 1st Level Menu in Fixed Advanced header type
+- Added new Qode Search types
+- Added new Side Area types
+- Updated Visual Composer to 4.5.1 version
+- Updated Layer Slider to 5.4.0
+- Fixed bug with Layer Slider installation
+- Fixed bug with Yoast SEO and values from Qode Meta boxes being reset. Page analysis in Yoast SEO has been disabled due to coding issue in Yoast SEO plugin
+- Fixed bug with Vertical Split Slider and button hover colors
+- Fixed bug with margin option in social icon shortcode when icon is square
+- Fixed counters and progress bar bug with Vertical Split Slider
+- Fixed bug with carousel shortcode images when image is external link
+
+7.0
+- Added Simple Photography Demo
+- Added Furniture Demo
+- Added Skin Care Demo
+- Added Rustic Demo
+- Added Custom Cursor Navigation Style in Qode Options -> Qode Slider
+- Added angled sections
+- Added new submenu opening styles for left menu
+- Added option for SVG to slider
+- Added scrolling animation options to slider
+- Added scrolling animation options to title area
+- Added scrolling animation options to Qode Elements Holder Shortcode
+- Added new type of Blog Slider
+- Added general options for Blog Slider types
+- Fixed issue with Yoast SEO and page transitions not working since 2.1 plugin version
+
+6.9
+- Added Brewery Demo
+- Added Corporate Demo
+- Added Office Demo
+- Added Paper Demo
+- Added support for native fonts
+- Added square social icon type and border radius option for it
+- Added shape size option for social icon shortcode for circle and square icon types
+- Added shape size option for icon shortcode for circle and square icon types
+- Added border radius option in icon shortcode for circle icon type
+- Added Text Transform option in Qode Options -> Elements -> Buttons
+- Added Letter Spacing and Text Transform option in Qode Options -> Elements -> Blockquotes
+- Added options for "Back to Top" button in Qode Options -> Elements
+- Added styling options for title on blog lists
+- Added new type and coloring options for Team shortcode
+- Fixed bug with text color in Contact Form 7 Custom Style 2
+
+6.8
+- Added WooCommerce 2.3.8 compatibility
+- Updated Visual Composer to version 4.4.4
+
+6.7
+- Added Photo Studio Demo
+- Added Urban Fashion Demo
+- Added Marine Demo
+- Added Interior Design Demo
+- Added Bar & Grill Demo
+- Added Qode Google Map Shortcode
+- Added number of columns option for WooCommerce shop page
+- Added styling options for product title and price on shop page
+- Added styling options for product title and price on single product page
+- Added styling options for on sale and out of stock buttons on shop page
+- Added option for adding separator after product title on shop page
+- Added styling options for add to cart button
+- Added styling options for quantity buttons on shop page and cart page
+- Added option for setting background color for product info box on shop page
+- Added font size option for titles on cart page
+- Added link to theme options in WP admin toolbar
+- Added styling options for toggle accordion element
+- Added text transform options for fixed menu, sticky menu, mobile menu
+- Added options in Qode Options -> Portfolio to control portfolio title and category in portfolio list
+- Added option for portfolio hover overlay color in Qode Options -> Portfolio
+- Added alignment option in Qode Options -> Header -> Side Area
+- Added option in Portfolio List shortcode to disable View button
+- Fixed Content Menu scrolling with Fixed Advanced header
+- Fixed an issue with product meta not changing font family when global font is changed
+- Fixed an issue with product title on shop page not changing font family when global font is changed
+- Fixed an issue with on sale button not changing font family when global font is changed
+- Fixed background color and it's transparency for scrolled Fixed Advanced header
+- Fixed bug with Qode Carousel Image size
+- Fixed bug with default theme logo image loading when ssl is enabled
+- Fixed issues with WooCommerce input fields when input fields options are set in theme options
+- Fixed bug with WooCommerce recent products column option
+- Fixed bug with add to cart button position in recent products shortcode when row text alignment is changed
+- Fixed bug with margin option in social icon shortcode when icon is circle
+- Fixed bug with buttons on cart and checkout page not pulling button styles from theme options,
+- Fixed bug with review number link hover color on product single page
+
+6.6
+- Added Qode Slider height field for mobile devices in Qode Options -> Qode Slider
+- Added Qode Slider height field for tablet portrait and mobile devices landscape view in Qode Options -> Qode Slider
+- Added Buttons style options for Qode Slider in Qode Options -> Qode Slider -> Slides Buttons Style
+- Added Lightbox for Videos (YouTube/Vimeo) option in Qode Options -> Portfolio
+- Added Portfolio external link target option in Portfolio -> Portfolio Single -> Qode General
+- Added Portfolio custom lightbox content (image/video) field in Portfolio -> Portfolio Single -> Qode General
+- Added Number of rows option for latest posts shortcode
+- Improved anchor functionality for fixed header type
+- Improved side menu area functionality
+- Updated documentation
+- Fixed bug with anchor scroll and transparent fixed menu
+- Fixed bug with anchor functionality when header type is fixed advanced
+- Fixed scroll functionality with Full Screen Sections on mobile devices
+- Fixed bug with Contact Form 7 and Vertical Split Screen
+- Fixed bug with Single Image rounded style and border style
+- Fixed bug with display date option in Blog Masonry shortcode
+- Fixed bug with Tags label on blog single to be translatable
+- Fixed bug with Icon with Text shortcode image display when icon/image position is left from title
+- Fixed bug with Blockquote shortcode when text contains apostrophe
+- Fixed bug with portfolio masonry without space width when left menu area is enabled
+- Fixed bug with duplicated portfolio items on portfolio list when load more button is pressed and order by value is default
+- Fixed bug with Qode Slider navigation position on smaller screens
+
+6.5
+- Added WooCommerce 2.3.6 compatibility
+- Updated Visual Composer to version 4.4.3
+- Fixed input fields width issues on WooCommerce login page
+
+6.4
+- Added Kids Demo
+- Added Animals Demo
+- Added comments support for portfolio
+- Added option for footer background image
+- Added Dutch translation po/mo files by Dennis Hunink
+- Added support for Envato Toolkit plugin
+- Added logo option for mobile devices
+- Improved anchor functionality
+- Updated Visual Composer to version 4.4.2
+- Updated Font Awesome to version 4.3.0
+- Updated documentation
+- Fixed bug with no space slider navigation position
+- Fixed scroll functionality with Vertical Split Slider and ajax page transitions on touch devices
+
+6.3
+- Added Graphic Studio example site
+- Added Cupcake example site
+- Added Sunglasses Shop example site
+- Added WooCommerce 2.3.2 compatibility
+
+6.2.2
+- Fixed bug with Qode Slider js problem after update on 6.2 version
+
+6.2.1
+- Fixed bug with Passepartout and Vertical Menu display
+
+6.2
+- Added Passepartout example site
+- Added Jeans example site
+- Added Wedding example site
+- Added Innovation example site
+- Added Travel Blog example site
+- Added Passepartout functionality (frame around site)
+- Added new field in Qode Options -> Blog -> Content Position
+- Added Blog Slider Shortcode
+- Improved Qode Image Slider shortcode to works in grid and inside columns
+- Updated documentation
+- Fixed bug with YOAST meta description when ajax animation is enabled
+
+6.1
+- Added Organic example site
+- Added Jazz example site
+- Updated Visual Composer to version 4.3.5
+- Added logo height field for mobile header in Qode Options -> Logo
+- Added logo height field for mobile devices in Qode Options -> Logo
+- Fixed bug with logo size when logo image is smaller then header height
+- Fixed bug with date for Blog Large Image Simple template
+
+6.0
+- Added Design Studio example site
+- Added Digital Agency example site
+- Added hidden Left Menu Area functionality
+- Added option in icon with text shortcode to add link around icon
+- Improved rtl styles
+- Fixed Vertical Slider Navigation with ajax page transitions
+- Fixed Full Screen Sections template when left menu area is enabled
+- Fixed Full Screen Sections scrolling on ajax
+- Fixed ajax loader position with left menu enabled
+
+5.9
+- Added Wellness example site
+- Added Case Study example site
+- Added 4 columns grid for portfolio masonry
+- Fixed scroll functionality with Vertical Split Slider and ajax page transitions
+- Fixed bug with hover color for content menu when first color is changed
+- Fixed bug with active state in main menu when page transition is enabled
+- Fixed bug with narrow dropdown hiding when link in it is clicked and page transitions are enabled
+- Fixed Blog masonry elements height on resize
+
+5.8
+- Added Fashion Shop example site
+- Added Company example site
+- Improved Visual Composer Design Tab to works with ajax animation (page transition)
+- Fixed responsiveness of Separator With Icon shortcode
+- Fixed label for Vertical Slide Content Item padding attribute
+- Fixed bug with contact form email validation message when website field is turned off
+- Fixed bug with custom css for inner row when it used Visual Composer Design Tab
+- Fixed bug with content menu when sticky divided header type is enabled
+- Fixed bug with space on gallery without space portfolio list type
+
+5.7
+- Added Photography Split Screen example site
+- Added Agency One Page example site
+- Added Vertical Split Screen Slider
+- Added Separator with Icon shortcode (Font Awesome icon)
+- Added testimonial author image option
+- Updated LayerSlider to version 5.3.2
+- Updated documentation
+- Fixed bug with video background for full screen sections template
+- Fixed bug with anchors scroll position when regular header type is chosen
+- Fixed bug with ajax when woocommerce pages aren't installed
+- Fixed bug with dependency check of bottom anchors in Qode Options
+
+5.6
+- Added WooCommerce 2.2.7 compatibility
+- Fixed bug when background color and border are enabled in same time in slide title in Qode Slider
+
+5.5
+- Added Lawyer example site
+- Added Health Blog example site
+- Fixed bug with right empty space for Qode Slider video on Mac
+- Fixed bug with Qode Search and WPML
+- Fixed bug with theme options when used with multisite enabled
+- Fixed left padding on Landing Page template when vertical menu is enabled
+
+5.4
+- Added Coming Soon Simple example site
+- Added Coming Soon Creative example site
+- Added Landing Page template (template without header and footer)
+- Added Maintenance Mode tab to Qode Options
+- Added Countdown shortcode
+- Added Contact Form 7 tab to Qode Options
+- Added custom style fields to Contact Form 7 shortcode
+- Updated LayerSlider to version 5.3.1
+- Updated documentation
+- Improved parallax functionality when accordion section opens and closes on the same page
+- Fixed bug with no ajax option for portfolio single pages
+- Fixed bug with lightbox image size for portfolio gallery template when image proportion option is selected
+
+5.3
+- Added Collection example site
+- Added Creative Vintage example site
+- Added Qode Image Slider shortcode (slider with no space between images)
+- Added new size for images in portfolio slider
+- Added field for scroll amount to hide menu in 'Fixed Advanced' header type
+- Updated documentation
+- Improved static files inclusion to include query string for caching
+- Improved call to action responsivness on smaller screen
+- Improved smooth scroll functionality, works on all browsers (mac and touch devices are excluded)
+- Fixed bug with meta description on category pages
+- Fixed problem with quick edit with custom post type
+- Fixed buf with Background Color Transparency field for Qode Slider -> Slides
+- Fixed bug with left and right sticky header type and logo link
+
+5.2
+- Added Performance Improvement functionality
+- Added Chocolaterie example site
+- Added Branding example site
+- Added Full Screen Sections Template
+- Added thumbnail size option for portfolio gallery template
+- Updated documentation
+- Fixed bug with slider position with left menu on RTL sites
+- Fixed bug with title tag on category pages
+- Removed unnecessary tag in portfolio list shortcode
+
+5.1.1
+- Updated WooCommerce template files for 2.2.3 compatibility
+- Updated Visual Composer to version 4.3.4
+- Updated FontAwesome icons pack to version 4.2.0
+- Updated documentation
+- Fixed bug with YOAST and page transitions error on home page
+- Fixed bug with scrolling of left menu
+- Fixed bug with responsiveness of full width masonry without space with tallest image being stretched
+
+5.1
+- Added Studio example site
+- Added Contemporary Art example site
+- Added WooCommerce 2.2 compatibility
+- Improved page transition to register page loading with Google Analytics
+- Improved Expandable shortcode
+- Fixed bug with title tag text on home page
+- Fixed bug with background pattern image on row not rendering properly on IE
+- Fixed bug with mobile header rendering when sticky with left and right menu is set in Qode Options -> Header
+- Fixed bug with woocommerce out of date files
+
+5.0
+- Added new Theme Options interface
+- Added new Meta Boxes interface
+- Added new Documentation
+- Added Simple Blog example site
+- Added Pinterest Blog example site
+- Added new type of blog list - Blog Large Image Simple
+- Added option in Qode Options -> Header and Footer to add separator between first level menu items
+- Added option for landscape and portrait image sizes in portfolio list and portfolio slider shortcodes
+- Added option for read more tag in posts
+- Improved load more functionality on blog masonry to include loading info once AJAX starts
+- Improved load more functionality on portfolio list to include loading info once AJAX starts
+- Improved google fonts inclusion
+- Updated Visual Composer to version 4.3.3
+- Updated LayerSlider to version 5.2.0
+- Updated separator shortcode, full width type is removed and dependency of fields are fixed
+- Updated po/mo files
+- Fixed dropdown menu position when boxed layout is enabled
+- Fixed bug with title text displaying site title when page is selected as blog page in Settings -> Reading
+- Fixed bug with icon with text icon color not working when set in shortcode and when first color is changed
+- Fixed bug with YOAST notice for meta description
+- Fixed bug with meta title when SEO plugins are used
+- Fixed bug with slide's typography option
+- Fixed bug page after title margin option affecting other elements
+- Fixed bug with second level menu font family for wide menu not working
+
+4.2
+- Added Parallax example site
+- Added Minimal example site
+- Added icon color option for service table shortcode
+- Improved anchor active class on scroll
+- Updated touchSwipe plugin, now links are working on touch devices in Qode Slider
+- Fixed bug with separator shortcode extra class option not rendering
+- Fixed bug with transparent left menu area when page transition
+- Fixed bug with Choose blog layout field in Qode Options -> Blog
+- Fixed border width changing on Qode Slider navigation arows
+
+4.1
+- Added Small Brand example site
+- Added Creative example site
+- Added option for separator bellow title in "Portfolio List" shortcode
+- Added "Sticky with left and right menu (centered logo)" header bottom type
+- Removed 'parent' and 'top' options from target attributes in shortcodes
+- Removed 'Show post title in title area' filed for posts
+- Removed 'background_color' attribute from Qode Slider, it is no longer needed
+- Fixed bug with breadcrumbs on product category page
+- Fixed bug with related products for WooCommerce
+- Fixed bug with testimonials shortcode options when there are more than one testimonial on the page
+- Fixed bug with Qode Slider subtitle background color
+- Fixed active border color on horizontal progress bars
+- Fixed bar border color on vertical progress bars
+- Fixed bug for Qode Clients shortcode in six columns
+- Fixed bug with contact form messages when translations contain single quote sign
+
+4.0
+- Added Mist example site
+- Added Architecture example site
+- Fixed css bug for "Icons" shortcode circle type
+- Fixed bug with input text color in Qode Options
+- Fixed bug link for link blog format type
+
+3.9
+- Added Wireframey example site
+- Added Denim example site
+- Added anchor field for each slide in Qode Slider that adds down arrow that scrolls to section on the page
+- Added Left Menu Area Alignment option
+- Improved parallax functionality when expandable section opens and closes on the same page
+- Updated Visual Composer to version 4.3.2
+- Updated LayerSlider to version 5.1.2
+- Updated color fields in Qode Options to allow more characters to add
+- Updated po/mo files
+- Removed unnecessary fields from Qode Custom Fields
+- Fixed blog masonry shortcode when there is no featured image added on blog post
+- Fixed Facebook sharing option with special characters
+- Fixed bug with margin after title option on screens smaller than 1000px
+- Fixed bug with posts overlaping for Blog Masonry shortcode when ajax is enabled
+- Fixed bug with posts overlaping for Latest post shortcode (Boxes type 4 columns) on responsive
+- Fixed bug with line height option for Left Menu
+- Fixed bug with slide title background transparency
+
+3.8
+- Added Health example site
+- Added Flat example site
+- Added functionality to show "custom widget area" in menu as popup (only for 'wide' menu types)
+- Added typography options for titles in footer top
+- Added text transform option for first level menu
+- Added text transform option for slide's title in Qode Slider
+- Added background color and transparency option for slide's title and subtitle in Qode Slider
+- Fixed bug with shop page option for transparency of left menu area
+- Fixed bug with title font size responsiveness when title font size is set in theme options
+- Fixed bug with php notice in search page on older versions of PHP
+- Fixed bug with scrolling on iPhone when fullscreen menu is activated
+- Fixed bug with title overlay pattern image screens sizes smaller then 600px
+- Fixed logo animation for "Fixed with hiding menu (centered logo)" header type
+- Fixed bug with breadcrumbs on posts page with < character
+- Removed unnecessary fileds from Qode Options (smooth scroll color control)
+- Removed two default widget areas from custom widget area selectbox
+
+3.7
+- Added Avenue example site
+- Added Portfolio Pinterest example site
+- Added Vimeo icon to the list of social icons
+- Added letter spacing option for slide title in Qode Slider
+- Added letter spacing option for slide subtitle in Qode Slider
+- Added letter spacing option for counters number in Qode Options -> Elements
+- Improved sticky menu appearance when amount for it is set in Qode Custom Fields and when Qode Slider is added to page
+- Fixed bug with background image as a pattern and background color when both are set on row in Visual Composer
+- Fixed bug when zero is set for testimonials border radius in Qode Options -> Elements
+- Fixed bug with Contact Form 7 submit button not applying styles for button element defined in Qode Options -> Elements
+- Fixed bug masonry load more button styles when button options are changed in Qode Options -> Elements
+
+3.6
+- Added Dark Parallax example site
+- Added Split Screen example site
+- Added new shortcode Qode Elements Holder
+- Fixed Portfolio list space issue on IE11
+- Fixed Log Out link from admin bar on front-end when page transitions are enabled
+- Fixed caption color of Calendar widget inside footer area
+- Fixed Scale steps and Scale step width attributes for Line graph shortcode
+- Fixed Google fonts link when SSL is enabled
+- Fixed category in mark on search template for pages
+- Fixed Global fonts option
+- Fixed Custom sidebar for Portfolio single items
+- Fixed Row Css animation when Ajax is enabled
+- Fixed Title for single blog posts(link tag is removed)
+
+3.5
+- Added Portfolio example site
+- Added Minimalist example site
+- Added "one by one" showing of content in Qode Slider
+- Added E-mail icon to the list of Social Icons used in Team shortcode
+- Added portfolio 'masonry with space' type (Pinterest style)
+- Improved anchor functionality to follow active items in main menu
+- Fixed bug with add to cart icon changing colors when fixed header is scrolled
+- Fixed bug with social share on products when product description uses tags
+- Fixed bug with link colors in h6 tag when h6 color is changed
+- Fixed positioning of logo on sticky menu when window is scrolled
+- Fixed wide dropdown menu right positioning
+- Fixed full width masonry layout when left menu is enabled
+- Fixed bug with don't link option for menu items and page transitions
+- Fixed bug with click event with ctrl key pressed and page transitions
+
+
+3.4
+- Added Catalog example site
+- Added option in Qode Options -> Contact Page for alignment of section between map and form
+- Added value 900 for font weight in Slides
+- Fixed position of separator in Qode Slider when is chosen alignment left and right
+- Fixed position of subtitle in Qode Slider when is chosen alignment right
+
+3.3.1
+- Fixed Portfolio Single bug
+
+3.3
+- Added Creative Business example site
+- Added multiple images upload to portfolio items
+- Added option for portfolio name and category alignment for standard portfolio list
+- Added support for password protected portfolios
+- Added RTL support
+- Fixed bug with add to cart button position on shop
+- Fixed content menu position when side area is opened
+- Fixed bug with mobile menu opener when no menu is selected for that location
+- Fixed bug with full screen menu opener when no menu is selected for that location
+- Fixed bug with expandable section hover color when set in Qode Options
+- Fixed bug with breadcrumbs color option when text color and breadcrumbs color are set
+
+3.2
+- Added Portfolio Masonry example site
+- Added Vintage example site
+- Added Set background image as pattern field for Row shortcode
+- Added possibility to render content for blog templates
+- Added Google map saturation field in Qode Options -> Contact Page
+- Added Google map lightness field in Qode Options -> Contact Page
+- Added atribute to show items in two rows in Qode Carousel shortcode
+- Updated po/mo files
+- Fixed Portfolio slider navigation when two sliders are added on same page
+- Fixed Masonry blog shortcode responsive
+- Fixed compatibility on Blog Masonry with new version of Visual Composer
+- Fixed WPML z-index when language selector is set in header top area
+- Fixed link attribute for Single Image shortcode
+
+3.1
+- Added Winery example site
+- Added new type of header animation - fixed with hiding menu
+- Added Show Button attribute for Pricing Table shortcode
+- Added Enable Portfolio text following attribute in Qode Options -> Portfolio Single
+- Added Slide Graphic Link attribute for Qode Slider
+- Fixed social icon hover color in header
+- Fixed portfolio filter margin when Left Menu Area is enabled
+
+3.0
+- Added Construct example site
+- Added option for pattern image overlay for image slides in Qode Slider
+- Added options section for border around slide's title in Qode Slider
+- Added option for setting background image (it can be a pattern) for call to action shortcode
+- Added section with options for medium image blog styles in Qode Options -> Blog
+- Updated Visual Composer to version 4.2.3
+- Improved responsiveness of slide's text in Qode Slider on last two stages
+- Fixed bug with link hover color when that option is set in Qode Options -> General Font Options
+- Fixed bug with responsiveness of pie chart with icon shortcode
+- Fixed bug with link in icon shortcode for square and circle icon type not being full width
+- Fixed bug with hover color of quote and link sections on single blog post when theirs default background color is changed
+
+2.9
+- Added Restaurant example site
+- Added subtitle field and styling section for subtitle for Qode Slider
+- Added title separator width option in Qode Options -> Header and Footer
+- Added option for setting separator width in percentages in Separator shortcode
+- Fixed Cover Boxes link target bug
+- Fixed bug with Counter shortcode overflow on number
+- Fixed bug with Qode Slider first button margin
+
+2.8
+- Added One Page example site
+- Added "Text from edge" attribute for Latest Post shortcode, Boxes type
+- Fixed Border Bottom on Title Area Color
+- Fixed Extra Class attribute for Parallax shortcode
+
+2.7
+- Added University example site
+- Added font family option for counter shortcode in Qode Options -> Elements
+- Added styles for list items in footer bottom widget area
+- Added option for link hover color in footer bottom widget area in Qode Options -> Header and Footer
+- Added letter spacing option for call to action widget and shortcode
+- Fixed bug with dropdown position when sticky header is turned on and it's height is changed in Qode Options -> Header and Footer
+- Fixed bug with flexslider direction arrows position when added through Visual Composer
+
+2.6
+- Added Modern example site
+- Added color transparency option for separator shortcode both in shortcode options and in Qode Options -> Elements
+- Added options for separator transparency in counter shortcode
+- Added option for separator between title and text in Qode Slider
+- Added font family option for number in counter shortcode in Qode Options -> Elements
+- Fixed bug with predefined white button hover options not affecting button in portfolio slider
+- Fixed bug with 1px spacing between image gallery items in Chrome
+- Fixed problem with string translation for infinite scroll on Blog Masonry template
+
+2.5
+- Added font weight option for call to action shortcode and widget
+- Added option for sidebar to single portfolio pages
+- Updated social icons shortcode to include new social icons from Font Awesome 4.1
+- Updated Visual Composer to version 4.2.1
+
+2.4
+- Added Cafe example site
+- Added option for light / dark side are close icon in Qode Options -> Side Area
+- Added loading animation spinners for transition between pages (8 choices)
+- Added author text font size option for testimonials shortcode
+- Added font options for default subtitle in Qode Options -> General Font Options
+- Updated Font Awesome to version 4.1
+- Updated po & mo translation files
+- Improved responsiveness of title in Qode Slider when large font size is set
+- Improved transition delay effect of image hover shortcode
+- Improved image background transition on Left Menu Area when page transition is on
+- Fixed bug with Left Menu Area background image in Qode Options -> Left Menu Area
+- Fixed bug with pricing table shortcode in Qode Shortcodes window
+- Fixed Fullscreen menu hover bug
+- Fixed bug with centering image hover shortcode in smaller screens
+
+2.3
+- Added Fashion example site
+- Added new pricing list shortcode
+- Added order by option for testimonials shortcode
+- Added font weight option for process shortcode in shortcode and in Qode Options -> Elements
+- Added hover background color option for process shortcode in Qode Options -> Elements
+- Added hover color option for process shortcode in Qode Options -> Elements
+- Added 100 font weight option for title in slide for Qode Slider
+- Added 100 font weight option for title Qode Options -> Header and Footer
+- Added anchor functionality to full screen menu
+- Added text color option for Qode Search in Qode Options -> Header and Footer
+- Added options for styling text and titles styles for Side Area in Qode Options -> Side Area
+- Fixed bug with latest post shortcode responsive
+- Fixed bug for portfolio share label when firt color is changed
+- Fixed bug with load more button on blog masonry
+- Fixed bug with cover boxes shortcode responsiveness when boxed layout is turned on
+- Fixed movement of Qode Slider in boxed mode, when right side area is opened
+- Fixed a bug with icon hover color in social icon shortcode when normal icon type is chosen
+
+2.2
+- Added Urban example site
+- Added parameter for icon size for circle or square type in icon with text shortcode
+- Added letter spacing parameter for button shortcode in Qode Options -> Elements
+- Added border parameter for custom font shortcode
+- Added font size parameter for counter digit and counter text in Qode Options -> Elements
+- Added border width parameter for buttons in Qode Options -> Elements
+- Added title separator color in Qode Options -> Header and Footer
+- Added background color transparency option for horizontal progress bar shortcode
+- Added hover background color option for first level menu items in Qode Options -> Header and Footer
+- Added transparency control for Fullscreen Menu
+- Fixed bug with border radius parameter for button in Qode Options -> Elements
+- Fixed minor responsive issues on last responsive stage
+- Fixed bug with "Text Box Background Color" field in Qode Options->Blog
+- Fixed bug with top header background color when fixed header is scrolled
+- Fixed bug with button border color overriding border width from Qode Options -> Elements
+- Fixed bug with Qode Search closing event pushing title when title is a parallax
+- Fixed bug with social icons hover in footer when first color is changed
+- FIxed bug with flexslider initialization on blog masonry
+
+2.1
+- Added Light example site
+- Added parameters for padding for call to action shortcode and call to action widget
+- Added parameter for author font weight for testimonials shortcode
+- Added section in Qode Options -> Header and Footer for header styles
+- Added section in Qode Options -> General Font Options for portfolio categories filter
+- Added background color option for Qode Search
+- Fixed bug with button height when line height option is set in Qode Options -> Elements
+- Fixed bug with breadcrumbs centering
+- Fixed bug with button margins on last two stages in call to action shortcode
+- Fixed bug with tabs navigation margins on smaller devices
+- Fixed bug with title spacings on smalled devices
+- Fixed bug with delimiter color in breadcrumbs when text color is changed in Qode Options
+- Fixed bug with post info links hover color when first color is changed in Qode Options
+
+2.0
+- Added Business example site
+- Added Agency example site
+- Added Estate example site
+- Added font size and font weight options for Pie Chart shortcode in Qode Options -> Elements
+- Added font size and font weight options for Progress Bar shortcode in Qode Options -> Elements
+- Added font size and font weight attribute in Pie Chart shortcode
+- Added font size and font weight attribute in Progress Bar shortcode
+- Added font size, line height and font weight options for predefined large title type in Qode Options -> General Font Options
+- Added font size, line height and font weight options for predefined medium title type in Qode Options -> General Font Options
+- Added font size, line height and font weight options for subtitle in Qode Options -> General Font Options
+- Added font size, line height and font weight options for predefined large type subtitle in Qode Options -> General Font Options
+- Added font size, line height options for Quote and Link blog format and Blockquote shortcode in  Qode Options -> General Font Options
+- Added option in Qode Options->Header for border bottom transparency on header
+- Added options for second level dropdown menu wide type in Qode Options -> Header and Footer
+- Added border hover color  and text hover color options for predifinied white button in Qode Options -> Elements
+- Added background color and background hover options for predifinied white button in Qode Options -> Elements
+- Added border color, background color and border radius options for masonry blog type in Qode Options -> Blog
+- Added letter spacing options for counters in Qode Options -> Elements
+- Added option to choose button size in pricing table shortcode
+- Added full font control for Fullscreen Menu in Qode Options
+- Added "size for side menu/fullscreen menu button" option (normal, medium, large) to Qode Options
+- Added color attribute for filter text in Portfolio List shortcode
+- Added second level menu on Fullscreen Menu
+- Improved mobile menu logic for touch devices
+- Improved Left Menu dropdown opening on touch devices
+- Updated Visual Composer to version 4.1.3.1
+- Fixed Fullscreen Menu active state when ajax page transition is enabled
+- Fixed anchor logic in main menu when Left Menu Area is enabled
+- Fixed bug with variation product margins on single product page
+- Fixed bug with image upload field in Qode Custom Fields
+- Fixed bug with not rendering sidebar for old posts when sidebar is selected in Qode Options -> Blog
+- Fixed bug with contact form fields padding when website field is disabled
+- Fixed bug with transition delay parameter for row shortcode in Chrome
+- Fixed bug with header height option in Qode Options and content position
+- Fixed bug with colorpicker boxes in standard shortcodes popup
+- Fixed bug with border attributes in Icon shortcode
+- Fixed bug with z-index issue with sidebar
+- Fixed shopping cart color in header on mobile screens
+- Fixed lightbox size on small screens
+- Fixed remove icon in WooCommerce Cart page to be on middle
+- Fixed Fullscreen Menu button changing colors
+- Fixed logo positioning on mobile screens
+- Fixed bug with header per page transparency
+- Fixed bug with title area font options in Qode Options -> General Font Options
+- Fixed bug with title centering when header transparency is set in Qode Options
+- Fixed bug with padding parameter on row shortcode
+- Fixed bug with google map on touch devices
+
+1.8
+- Added input background color, border color and text color options in Qode Options -> Elements
+- Added background button color in Qode Options -> Elements
+- Added border and text color for predifinied white button in Qode Options -> Elements
+- Added border, background color and border radius for blog masonry in Qode Options -> Blog
+- Added option in Qode Options for margin bellow title for default template
+- Added option in Qode Options->Header for border bottom on header
+- Added option for button size in pricing table shortcode
+- Fixed bug with single post sidebar option in Qode Options -> Blog
+- Fixed bug with border bottom on title
+- Fixed bug with pie chart color when First Main Color in Qode Options is changed
+- Fixed content menu positioning when left menu area and fixed header are enabled
+- Fixed boxed layout when left menu are is enabled
+
+1.7
+- Added attributes to control border, border width, border color and background color in portfolio shortcode for standard type
+- Added attributes to control border, border width, border color and background color in team shortcode
+- Added border radius option for navigation and text size option in Qode Options for Testimonials
+- Added text text font weight, text transform, counter font weight, color, counter color and separator color options in Qode Options for Counters
+- Added border color, border width. border radius in Qode Options for vertical and boxed Tabs
+- Added attributes to control border, border width, border color in message shortcode
+- Added option to choose button size in call to action shortcode
+- Added borde radius attribute for horizontal and vertical progress bars shortcode
+- Added option for accordion shortcode for accordion mark border radius
+- Added hover text color for Fullscreen Menu in Qode Options
+- Added breadcrumbs
+- Added option for bottom border on title area
+- Added Masonry Full Width Page template
+- Added option for separator between items in dropdown for classic menu
+- Added border color parameter in Call To Action widget
+- Fixed text color changing of Fullscreen Menu
+- Fixed Qode Options > First Main Color bugs
+- Fixed bug with mobile menu hover color option when first color is changed
+- Fixed bug with call to action shortcode border color parameter
+
+1.6
+- Added Fullscreen Menu functionality
+- Added support for WooCommerce 2.1.7
+- Added options in Qode Options for button types
+- Added text transform option for headings in Qode Options
+- Added background color attribute in Team shortcode
+- Updated Visual Composer to version 4.1.2
+- Fixed separator with text shortcode
+- Fixed Qode Shortcodes Button in Visual Composer shortcodes
+- Fixed bug with menu on category pages
+- Fixed problem with mixing tags on Posts and Portfolio
+- Fixed bug with Qode Slider graphic position on smaller devices
+- Fixed bug with process shortcode circle background and border color on hover for first color change
+- Fixed bug with footer text widget area multiple line text
+- Fixed bug with content margin on iPad when footer uncovering options is selected
+
+1.5
+- Added Left Menu Area transparency option, global or per page
+- Added Left Menu Area background color option, global or per page
+- Added Left Menu Area background image option, global or per page
+- Added Left Menu Area dark/light color scheme changing when transparency is on
+- Added options for separator small type in Qode Options
+- Improved Left Menu slide down easing of sub levels
+- Updated documentation
+- Updated Qode Slider shortcode example sliders list
+- Fixed Qode Slider positioning when parallax effect is off and left menu is turned on
+- Fixed Qode Slider left moving effect when right side menu is opened and boxed version is turned on
+- Fixed menu items overlap when boxed layout is enabled
+- Fixed Qode Shortcodes button
+- Fixed bug with Cover Boxes shortcode button element
+
+1.4
+- Added Left Menu Area feature and Qode Options section
+- Added Left Menu Area widget area to Appearance > Widgets
+- Added anchor parameter to Qode Slider shortcode
+- Added Gravity Forms CSS
+- Updated po & mo files
+- Improved anchor functionality logic to take header size changes
+- Fixed WP 3.9 Qode Shortcodes bug
+- Fixed WP 3.9 Qode Options image browser field bug
+- Fixed font-family option for title and text in Qode Slider
+- Fixed content behind Qode Slider problem on default page template
+- Fixed bug with fixed header style options
+- Fixed bug with Qode Slider header styles affecting scrolled fixed header
+- Fixed bug with Section Title shortcode in Qode Shortcodes list
+- Fixed bug with ajax page transitions and target=_blank on links
+- Fixed "no animation" option for posts and portfolios
+- Fixed bug with Qode Custom fields saving zero values
+- Fixed bug with header background color options
+- Fixed bug with saving Qode SEO fields
+- Fixed bug with testimonials shortcode navigation parameter
+
+1.3
+- Added option to Qode Slider to turn parallax effect on/off
+- Improved responsiveness of cover boxes shortcode
+- Updated Visual Composer to version 4.0.5
+- Fixed bug with footer text color options
+- Fixed bug with slide's content position on fixed height sliders
+- Fixed background color in Mobile menu style option
+- Fixed horizontal center option in tabs shortcode
+
+1.2
+- Added tags support for portfolio post type
+- Updated po & mo files
+- Fixed lightbox popup when page transitions are not enabled
+- Fixed lightbox popup overlay in Chrome
+- Fixed background color transparency in social icon shortcode
+- Fixed shadow on fixed header when scrolled
+- Fixed style attribute for single image shortcode in Visual Composer
+- Fixed blog masonry load more with page transitions
+
+1.1
+- Added Contact Form 7 plugin integration
+- Updated Visual Composer to version 4.0.4 (from this version our theme is compatible only with VC 4+)
+- Improved responsiveness of Qode Slider on last two stages
+
+1.0.1
+- Updated demo content
+- Updated style for prettyPhoto popup
+- Fixed bug with portfolio gallery hover
